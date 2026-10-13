@@ -71,6 +71,19 @@ the same way. To update the CV, upload the new one as `files/CV_Emanuel_Moench.p
 Upload a JPG/PNG (about 800 px wide is plenty) to `assets/images/media/` on the `main` branch and put its file name in
 the `image:` field of the media entry. Entries without an image simply show the text card.
 
+### Changing a banner photo
+
+Each page's banner is set by the `hero:` line at the top of the page file (e.g. `other-publications.html` and `german/weitere-publikationen.html`).
+Upload the photo (about 2000 px wide) to `assets/images/photos/` and write its path:
+
+```yaml
+hero: /assets/images/photos/new-york-fed.jpg
+hero_position: center 40%     # optional: which part of the photo stays visible (left/centre/right, top %)
+```
+
+A plain file name such as `hero: portrait-08.jpg` refers to the portraits in `assets/images/portraits/`.
+Photos under a CC BY or CC BY-SA licence need a credit line in `imprint.md` and `german/impressum.md`.
+
 ### When a working paper is published
 
 Cut its entry from `_data/working_papers.yml`, paste it at the top of `_data/journal_publications.yml`, and update `details`.
