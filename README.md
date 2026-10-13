@@ -19,7 +19,7 @@ Open a file on github.com, click the **pencil icon** (✎), make the change, the
 | Add or change a working paper | `_data/working_papers.yml` |
 | Add a policy brief, column or blog post | `_data/other_publications.yml` |
 | Add a media appearance | `_data/media.yml` |
-| Change the advisory roles on “Other” | `_data/affiliations.yml` |
+| Change the advisory roles on “Advisory” | `_data/affiliations.yml` |
 | Change the bio | `index.md` (English) and `german/uber-mich.md` (German) |
 | Change address, e-mail, phone | `_config.yml` |
 | Replace the CV | upload a new `files/CV_Emanuel_Moench.pdf` |

@@ -13,7 +13,7 @@ Frankfurt School of Finance & Management gGmbH<br>
 Adickesallee 32-34<br>
 60322 Frankfurt am Main, Germany
 
-Phone: +49 151 20983651<br>
+Phone: +49 69 154008 214<br>
 Email: [e.moench@fs.de](mailto:e.moench@fs.de)
 
 ### Responsible for content pursuant to § 18 (2) MStV
