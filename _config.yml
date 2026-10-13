@@ -1,0 +1,58 @@
+# ---------------------------------------------------------------
+#  Site settings — www.emanuelmoench.com
+#  Edit the values below; GitHub rebuilds the site automatically.
+# ---------------------------------------------------------------
+
+title: Emanuel Mönch
+description: Professor of Financial and Monetary Economics at Frankfurt School of Finance & Management.
+url: "https://www.emanuelmoench.com"
+
+# Test mode: keeps search engines away while the site runs at test.emanuelmoench.com.
+# Set to false when switching to www.emanuelmoench.com.
+noindex: true
+baseurl: ""
+
+# Contact details (used in the footer and on the contact pages)
+contact:
+  name: Emanuel Mönch
+  address:
+    - Frankfurt School of Finance & Management
+    - Adickesallee 32-34
+    - 60322 Frankfurt am Main
+  email: e.moench@fs.de
+  phone_footer: "+49 151 20983651"
+  phone_footer_link: "+4915120983651"
+  phone_office: "+49 69 154008 214"
+  phone_office_link: "+4969154008214"
+  map: "https://www.google.com/maps/search/?api=1&query=Frankfurt+School+of+Finance+%26+Management+Adickesallee+32-34+Frankfurt"
+
+# Profiles shown as icons in the header
+profiles:
+  scholar: "https://scholar.google.com/citations?user=8Cuk5vYAAAAJ&hl=en&oi=ao"
+  linkedin: "https://www.linkedin.com/in/emanuelmoench/"
+
+# CV link ("Download CV" button)
+cv: "https://github.com/EmanuelMoench/website/blob/About/CV_Emanuel_Moench_website.pdf"
+
+# Centre for Central Banking links
+cfcb_nav: "https://cfcb.frankfurt-school.de/"
+cfcb_en: "https://www.frankfurt-school.de/en/home/research/centres/centre-for-central-banking"
+
+# ---------------------------------------------------------------
+#  Technical settings — normally no need to change anything below
+# ---------------------------------------------------------------
+markdown: kramdown
+kramdown:
+  input: GFM
+permalink: pretty
+exclude:
+  - README.md
+  - EDITING.md
+  - Gemfile
+  - Gemfile.lock
+  - vendor
+defaults:
+  - scope: { path: "" }
+    values: { layout: page, lang: en }
+  - scope: { path: "german" }
+    values: { lang: de }
