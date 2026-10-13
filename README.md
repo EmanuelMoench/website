@@ -104,6 +104,16 @@ Cut its entry from `_data/working_papers.yml`, paste it at the top of `_data/jou
 
 ---
 
+## Visitor statistics (Umami)
+
+The site can show anonymous, cookie-free visitor statistics with Umami Cloud (free "Hobby" plan: 1 website, 100k events/month, 6 months history).
+
+1. Create a free account at https://cloud.umami.is, then **Add website**: name "Emanuel Mönch", domain `www.emanuelmoench.com`.
+2. Copy the **Website ID** shown under the website's tracking code.
+3. Paste it into `_config.yml` → `analytics: umami_website_id: "…"` and commit.
+
+That's all: the tracking script and the matching section in the privacy statement (EN + DE) switch on automatically. To switch statistics off, empty the quotes again. The dashboard is at https://cloud.umami.is.
+
 ## Previewing on your own computer (optional)
 
 Not needed for normal edits. If you want to see changes before publishing:

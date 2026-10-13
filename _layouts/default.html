@@ -27,6 +27,9 @@
   <link rel="preload" href="{{ '/assets/fonts/montserrat-latin-400-normal.woff2' | relative_url }}" as="font" type="font/woff2" crossorigin>
   <link rel="preload" href="{{ '/assets/fonts/archivo-narrow-latin-700-normal.woff2' | relative_url }}" as="font" type="font/woff2" crossorigin>
   <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
+  {%- if site.analytics.umami_website_id != "" %}
+  <script defer src="{{ site.analytics.umami_script }}" data-website-id="{{ site.analytics.umami_website_id }}" data-domains="www.emanuelmoench.com,emanuelmoench.com,test.emanuelmoench.com"></script>
+  {%- endif %}
 </head>
 <body class="page-{{ page.ref | default: 'plain' }}">
   <a class="skip-link" href="#main">{% if page.lang == 'de' %}Zum Inhalt springen{% else %}Skip to content{% endif %}</a>

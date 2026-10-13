@@ -34,6 +34,13 @@ profiles:
 # CV link ("Download CV" button)
 cv: "/files/CV_Emanuel_Moench.pdf"
 
+# Visitor statistics (Umami, cookie-free). Paste the "Website ID" from
+# cloud.umami.is between the quotes to switch statistics on; leave it
+# empty to switch them off.
+analytics:
+  umami_website_id: ""
+  umami_script: "https://cloud.umami.is/script.js"
+
 # Centre for Central Banking links
 cfcb_nav: "https://fs.de/cfcb"
 cfcb_en: "https://fs.de/cfcb"
