@@ -13,9 +13,9 @@
 # ---------------------------------------------------------------
 
 - title: Safe Asset Scarcity, Collateral Reuse, and Market Functioning
-  url: https://hub.cepr.org/published-discussion-paper/211589
+  url: https://cepr.org/publications/dp16439
   with: Stephan Jank and Michael T. Schneider
-  details: CEPR Discussion Paper No. 16439, April 2026, forthcoming, *Journal of Financial Economics*
+  details: forthcoming, *Journal of Financial Economics*
   abstract: >-
     Quantitative easing contributes to safe asset scarcity and repo market specialness. We show that banks respond
     to scarcity induced by Eurosystem bond purchases by increasing their reuse of these bonds as collateral. While
@@ -62,7 +62,7 @@
 - title: Equity Premium Predictability over the Business Cycle
   url: https://www.cambridge.org/core/journals/journal-of-financial-and-quantitative-analysis/article/abs/equity-premium-predictability-over-the-business-cycle/2DB91AB43900E18630D84C78F7FE85A8
   with: Tobias Stein
-  details: CEPR Discussion Paper No. 16357, April 2025, forthcoming, *Journal of Financial and Quantitative Analysis*
+  details: forthcoming, *Journal of Financial and Quantitative Analysis*
   abstract: >-
     Equity returns follow a pronounced V-shape pattern around the onset of recessions. They sharply drop into
     negative territory just before business cycle peaks and then strongly recover as the recession unfolds.
@@ -86,7 +86,7 @@
 - title: OTC Discount
   url: https://pubsonline.informs.org/doi/epdf/10.1287/mnsc.2022.00194
   with: Calebe de Roure, Loriana Pelizzon, and Michael T. Schneider
-  details: SAFE Working Paper No. 298, August 2024, forthcoming, *Management Science*
+  details: forthcoming, *Management Science*
   abstract: >-
     We document a pecking order of transaction costs in the interdealer market for German sovereign bonds, where
     three trading protocols coexist. Dealers can trade over-the-counter, either bilaterally or via brokers, as well
@@ -393,7 +393,7 @@
   url: https://onlinelibrary.wiley.com/doi/10.1111/jofi.12196
   with: David Lucca
   details: >-
-    Federal Reserve Bank of New York Staff Reports No. 512, July 2013, *Journal of Finance*, Vol. 70 No. 1,
+    *Journal of Finance*, Vol. 70 No. 1,
     January 2015, winner of the [Amundi Smith Breeden First Prize](https://afajof.org/prizes/) for the best capital
     markets paper published in the Journal of Finance in 2015
   abstract: >-
