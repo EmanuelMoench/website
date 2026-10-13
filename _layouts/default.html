@@ -20,7 +20,7 @@
   <meta property="og:type" content="website">
   <meta property="og:url" content="{{ page.url | absolute_url }}">
   {%- if page.hero %}
-  <meta property="og:image" content="{{ '/assets/images/portraits/' | append: page.hero | absolute_url }}">
+  <meta property="og:image" content="{% if page.hero contains '/' %}{{ page.hero | absolute_url }}{% else %}{{ '/assets/images/portraits/' | append: page.hero | absolute_url }}{% endif %}">
   {%- endif %}
   <meta property="og:locale" content="{% if page.lang == 'de' %}de_DE{% else %}en_GB{% endif %}">
   <link rel="icon" type="image/png" href="{{ '/assets/images/favicon.png' | relative_url }}">

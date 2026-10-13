@@ -26,4 +26,5 @@ Ich bin weder bereit noch verpflichtet, an Streitbeilegungsverfahren vor einer V
 
 ### Bildnachweis
 
-Fotos: Henning Köhler
+Porträts: Henning Köhler<br>
+Federal Reserve Bank of New York (Weitere Publikationen): Beyond My Ken, [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.de), via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:2013_Federal_Reserve_Bank_of_New_York_from_west.jpg)

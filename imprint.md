@@ -26,6 +26,7 @@ I am neither willing nor obliged to participate in dispute resolution proceeding
 
 ### Image credits
 
-Photos: Henning Köhler
+Portraits: Henning Köhler<br>
+Federal Reserve Bank of New York (Other Publications): Beyond My Ken, [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/), via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:2013_Federal_Reserve_Bank_of_New_York_from_west.jpg)
 
 *The [German version](/german/impressum) of this imprint is the legally binding one.*
