@@ -22,7 +22,7 @@ Prof. Dr. Emanuel Mönch, address as above
 
 ### Consumer dispute resolution
 
-We are neither willing nor obliged to participate in dispute resolution proceedings before a consumer arbitration board.
+I am neither willing nor obliged to participate in dispute resolution proceedings before a consumer arbitration board.
 
 ### Image credits
 

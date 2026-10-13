@@ -2,6 +2,7 @@
 # ---------------------------------------------------------------
 #   en / de   the line before the linked name, in each language
 #   name      the linked organisation name
+#   name_de   optional German form of the name (e.g. "Deutschen Bundesbank")
 #   url       link
 #   after     optional text after the name (en / de)
 #   logo      file in assets/images/logos/ (optional)
@@ -32,14 +33,16 @@
   url: https://cepr.org/
   logo: cepr.png
 
-- en: Research Professor (academic consultant) at
+- en: Research Professor (academic consultant) at the
   de: Forschungsprofessor (wissenschaftlicher Berater) bei der
   name: Deutsche Bundesbank
+  name_de: Deutschen Bundesbank
   url: https://www.bundesbank.de/de
   logo: bundesbank.png
 
 - en: Regular Research Visitor at the
   de: Regelmäßiger Forschungsgast bei der
   name: European Central Bank
+  name_de: Europäischen Zentralbank
   url: https://www.ecb.europa.eu/home/html/index.en.html
   logo: ecb.png

@@ -75,9 +75,9 @@
   links:
     - { label: PDF, url: "/files/papers/Genc_Moench_Pazarbasi(CEPR_DP20812_Dec2025).pdf" }
 
-- title: Energy-saving technology shocks, emissions, and the macroeconomy
+- title: Energy-Saving Technology Shocks, Emissions, and the Macroeconomy
   url: https://hub.cepr.org/published-discussion-paper/219477
-  with: Soroosh Soofi Siavash
+  with: Soroosh Soofi-Siavash
   details: CEPR Discussion Paper No. 19656, June 2025
   abstract: >-
     We use restrictions derived from frontier models of directed technical change to identify green and non-green
@@ -109,7 +109,7 @@
 
 - title: How Do We Learn About the Long Run?
   url: https://www.newyorkfed.org/research/staff_reports/sr1150
-  with: Richard K. Crump, Stefano Eusepi and Bruce Preston
+  with: Richard K. Crump, Stefano Eusepi, and Bruce Preston
   details: Federal Reserve Bank of New York Staff Reports No. 1150, April 2025
   abstract: >-
     Using a novel and unique panel dataset of individual-level professional forecasts at short, medium, and
@@ -123,7 +123,7 @@
   links:
     - { label: PDF, url: "/files/papers/Crump_Eusepi_Moench_Preston(NYFed_SR1150_Apr2025).pdf" }
 
-- title: Household beliefs about fiscal dominance
+- title: Household Beliefs about Fiscal Dominance
   url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5097443
   with: Philippe Andrade, Erwan Gautier, Eric Mengus, and Tobias Schmidt
   details: March 2025
@@ -143,7 +143,7 @@
 
 - title: The Asymmetric and Persistent Effects of Fed Policy on Global Bond Yields
   url: https://www.bis.org/publ/work1195.htm
-  with: Tobias Adrian, Gaston Gelos and Nora Lamersdorf
+  with: Tobias Adrian, Gaston Gelos, and Nora Lamersdorf
   details: BIS Working Paper No. 1195, July 2024
   abstract: >-
     We document that U.S. monetary policy shocks have highly persistent but asymmetric effects on U.S. Treasury and
@@ -178,7 +178,7 @@
 
 - title: Fundamental Disagreement about Monetary Policy and the Term Structure of Interest Rates
   url: https://www.newyorkfed.org/research/staff_reports/sr934
-  with: Shuo Cao, Richard K. Crump and Stefano Eusepi
+  with: Shuo Cao, Richard K. Crump, and Stefano Eusepi
   details: Federal Reserve Bank of New York Staff Reports No. 934, July 2021
   abstract: >-
     Using a unique data set of individual professional forecasts, we document disagreement about the future path of

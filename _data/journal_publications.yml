@@ -12,10 +12,10 @@
 #   links     extra buttons: PDF, Code, data, ... (optional)
 # ---------------------------------------------------------------
 
-- title: Safe asset scarcity, collateral reuse, and market functioning
+- title: Safe Asset Scarcity, Collateral Reuse, and Market Functioning
   url: https://hub.cepr.org/published-discussion-paper/211589
   with: Stephan Jank and Michael T. Schneider
-  details: CEPR Discussion Paper No. 16439, April 2026, forthcoming, ***Journal of Financial Economics***
+  details: CEPR Discussion Paper No. 16439, April 2026, forthcoming, *Journal of Financial Economics*
   abstract: >-
     Quantitative easing contributes to safe asset scarcity and repo market specialness. We show that banks respond
     to scarcity induced by Eurosystem bond purchases by increasing their reuse of these bonds as collateral. While
@@ -35,10 +35,10 @@
   links:
     - { label: PDF, url: "/files/papers/Jank_Moench_Schneider(CEPRDP_2026).pdf" }
 
-- title: A KISS for central bank communication in times of high inflation
+- title: A KISS for Central Bank Communication in Times of High Inflation
   url: https://www.sciencedirect.com/science/article/pii/S0261560626000707
   with: Mathias Hoffmann, Lora Pavlova, and Guido Schultefrankenfeld
-  details: May 2026, ***Journal of International Money and Finance*** Vol. 165
+  details: "*Journal of International Money and Finance*, Vol. 165, May 2026"
   abstract: >-
     During the post-pandemic inflation surge, many central banks used communication about the inflation outlook to
     limit spillovers from realized to expected inflation. We present novel survey evidence showing that ECB guidance
@@ -85,7 +85,7 @@
 
 - title: OTC Discount
   url: https://pubsonline.informs.org/doi/epdf/10.1287/mnsc.2022.00194
-  with: Calebe de Roure, Loriana Pelizzon and Michael Schneider
+  with: Calebe de Roure, Loriana Pelizzon, and Michael T. Schneider
   details: SAFE Working Paper No. 298, August 2024, forthcoming, *Management Science*
   abstract: >-
     We document a pecking order of transaction costs in the interdealer market for German sovereign bonds, where
@@ -165,9 +165,9 @@
   links:
     - { label: PDF, url: "/files/papers/Carvalho_Eusepi_Moench_Preston(AEJMacro2023).pdf" }
 
-- title: What moves Treasury Yields?
+- title: What Moves Treasury Yields?
   url: https://www.sciencedirect.com/science/article/abs/pii/S0304405X22000770
-  with: Soroosh Soofi Siavash
+  with: Soroosh Soofi-Siavash
   details: "*Journal of Financial Economics*, Vol. 146(3), December 2022"
   abstract: >-
     We identify a yield news shock as an innovation that does not move Treasury yields contemporaneously but
@@ -212,7 +212,7 @@
 
 - title: Would Households Understand Average Inflation Targeting?
   url: https://www.sciencedirect.com/science/article/abs/pii/S030439322200023X
-  with: Mathias Hoffmann, Lora Pavlova and Guido Schultefrankenfeld
+  with: Mathias Hoffmann, Lora Pavlova, and Guido Schultefrankenfeld
   details: "*Journal of Monetary Economics*, Vol. 129(S), July 2022"
   abstract: >-
     Yes, they would. In a randomized control trial, we provide groups of respondents from the Bundesbank Online

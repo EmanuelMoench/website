@@ -53,7 +53,6 @@
 
 - outlet: ARD ZDF Morgenmagazin
   date: 2025-04
-  title: ZDF-Morgenmagazin
   url: https://www.zdf.de/video/magazine/zdf-morgenmagazin-104/zdf-morgenmagazin-vom-17-april-2025-100
   image: moma-2504.jpg
 
@@ -63,7 +62,7 @@
   url: https://www.zdfheute.de/wirtschaft/aktien-aktienmaerkte-europa-geldanlagen-boerse-100.html
   image: zdfheute-2504.jpg
 
-- outlet: usnews.com
+- outlet: U.S. News & World Report
   date: 2025-04
   title: "Analysis: How Trump's Policy Risk Is Showing in Treasury Bonds"
   url: https://money.usnews.com/investing/news/articles/2025-04-08/analysis-how-trumps-policy-risk-is-showing-in-treasury-bonds
@@ -71,7 +70,6 @@
 
 - outlet: ZDF WISO
   date: 2025-03
-  title: ZDF WISO
   url: https://www.zdf.de/play/magazine/wiso-104/wiso-vom-31-maerz-2025-100?staffel=2025
   image: wiso-2503.jpg
 
@@ -99,7 +97,7 @@
   url: https://www.n-tv.de/mediathek/sendungen/Fonds/Schwache-Wirtschaft-starke-Boersen-article24773439.html
   image: ntv-2402.jpg
 
-- outlet: Tagesschau.de
+- outlet: tagesschau.de
   date: 2024-02
   title: Flaute in der Wirtschaft, Euphorie an der Börse
   url: https://www.tagesschau.de/wirtschaft/finanzen/dax-rekordhoch-boerse-konjunktur-100.html
@@ -111,13 +109,13 @@
   url: https://www.dailymail.co.uk/wires/reuters/article-12582969/In-Market-US-bond-market-signals-end-era.html
   image: dailymail-2310.jpg
 
-- outlet: Tagesschau.de
+- outlet: tagesschau.de
   date: 2022-09
   title: Was der Zinsschritt im Alltag bedeutet
   url: https://www.tagesschau.de/wirtschaft/finanzen/ezb-zentralbank-geldpolitik-zinsen-inflation-101.html
   image: tagesschau-2209.jpg
 
-- outlet: Tagesschau.de
+- outlet: tagesschau.de
   date: 2022-07
   title: Warum die Zinserhöhung nur ein Anfang ist
   url: https://www.tagesschau.de/wirtschaft/finanzen/zinswende-ezb-anleihekaufprogramm-101.html

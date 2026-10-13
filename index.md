@@ -13,8 +13,8 @@ I am Professor of Financial and Monetary Economics at [Frankfurt School of Finan
 
 My research mainly focuses on the intersection of macroeconomics and finance and has been published in the Journal of Finance, the Journal of Financial Economics, the Review of Financial Studies, the Journal of Monetary Economics and many others. My research was recognised with the Journal of Finance’s Amundi Smith Breeden First Prize in 2015 and the European Economic Association's Young Economist Award in 2008.
 
-I obtained a Diploma and PhD in Economics from Humboldt University Berlin and hold the degree of *Statisticien Economiste* from ENSAE in France.
+I obtained a Diploma and PhD in Economics from Humboldt University Berlin and hold the degree of *Statisticien Économiste* from ENSAE in France.
 
-I am an adviser to several research institutes and central banks and serve as a Co-Editor at the International Journal of Central Banking.
+I am an adviser to several research institutes and central banks and serve as a Co-Editor of the International Journal of Central Banking.
 
 I also co-direct the [Centre for Central Banking ↗](https://fs.de/cfcb){:target="_blank" rel="noopener"} at Frankfurt School.

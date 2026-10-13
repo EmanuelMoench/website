@@ -20,9 +20,9 @@ E-Mail: [e.moench@fs.de](mailto:e.moench@fs.de)
 
 Prof. Dr. Emanuel Mönch, Anschrift wie oben
 
-### Verbraucherstreitbeilegung / Universalschlichtungsstelle
+### Verbraucherstreitbeilegung
 
-Wir sind nicht bereit oder verpflichtet, an Streitbeilegungsverfahren vor einer Verbraucherschlichtungsstelle teilzunehmen.
+Ich bin weder bereit noch verpflichtet, an Streitbeilegungsverfahren vor einer Verbraucherschlichtungsstelle teilzunehmen.
 
 ### Bildnachweis
 

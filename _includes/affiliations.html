@@ -2,7 +2,7 @@
 <p class="lead-in"><strong>{% if l == 'de' %}Ich bin{% else %}I am{% endif %}</strong></p>
 <ul class="roles">
 {%- for a in site.data.affiliations %}
-  <li>{{ a[l] }} <a href="{{ a.url }}" target="_blank" rel="noopener">{{ a.name }}</a>{% if a.after %} {{ a.after[l] }}{% endif %}</li>
+  <li>{{ a[l] }} <a href="{{ a.url }}" target="_blank" rel="noopener">{% if l == 'de' and a.name_de %}{{ a.name_de }}{% else %}{{ a.name }}{% endif %}</a>{% if a.after %} {{ a.after[l] }}{% endif %}</li>
 {%- endfor %}
 </ul>
 <ul class="logo-row">
