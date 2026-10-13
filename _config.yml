@@ -16,7 +16,7 @@ baseurl: ""
 contact:
   name: Emanuel Mönch
   address:
-    - Frankfurt School of Finance & Management
+    - Frankfurt School of Finance & Management gGmbH
     - Adickesallee 32-34
     - 60322 Frankfurt am Main
   email: e.moench@fs.de
@@ -35,8 +35,8 @@ profiles:
 cv: "/files/CV_Emanuel_Moench.pdf"
 
 # Centre for Central Banking links
-cfcb_nav: "https://cfcb.frankfurt-school.de/"
-cfcb_en: "https://www.frankfurt-school.de/en/home/research/centres/centre-for-central-banking"
+cfcb_nav: "https://fs.de/cfcb"
+cfcb_en: "https://fs.de/cfcb"
 
 # ---------------------------------------------------------------
 #  Technical settings — normally no need to change anything below

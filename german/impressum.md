@@ -9,7 +9,7 @@ cta: false
 ### Angaben gemäß § 5 DDG
 
 Prof. Dr. Emanuel Mönch<br>
-Frankfurt School of Finance & Management<br>
+Frankfurt School of Finance & Management gGmbH<br>
 Adickesallee 32-34<br>
 60322 Frankfurt am Main
 

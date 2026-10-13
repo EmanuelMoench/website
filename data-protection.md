@@ -8,7 +8,7 @@ cta: false
 
 ### 1. Controller
 
-Prof. Dr. Emanuel Mönch, Frankfurt School of Finance & Management, Adickesallee 32-34, 60322 Frankfurt am Main, Germany, email: [e.moench@fs.de](mailto:e.moench@fs.de).
+Prof. Dr. Emanuel Mönch, Frankfurt School of Finance & Management gGmbH, Adickesallee 32-34, 60322 Frankfurt am Main, Germany, email: [e.moench@fs.de](mailto:e.moench@fs.de).
 
 ### 2. Overview
 

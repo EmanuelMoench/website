@@ -18,4 +18,4 @@ Ich habe ein Diplom und einen Doktortitel in Volkswirtschaftslehre von der Humbo
 
 Ich bin Berater mehrerer Forschungsinstitute und Zentralbanken und fungiere als Mitherausgeber des International Journal of Central Banking.
 
-Darüber hinaus bin ich Co-Direktor des [Centre for Central Banking ↗](https://www.frankfurt-school.de/home/research/centres/centre-for-central-banking){:target="_blank" rel="noopener"} an der Frankfurt School.
+Darüber hinaus bin ich Co-Direktor des [Centre for Central Banking ↗](https://fs.de/cfcb){:target="_blank" rel="noopener"} an der Frankfurt School.

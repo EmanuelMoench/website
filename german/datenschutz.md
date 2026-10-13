@@ -8,7 +8,7 @@ cta: false
 
 ### 1. Verantwortlicher
 
-Prof. Dr. Emanuel Mönch, Frankfurt School of Finance & Management, Adickesallee 32-34, 60322 Frankfurt am Main, E-Mail: [e.moench@fs.de](mailto:e.moench@fs.de).
+Prof. Dr. Emanuel Mönch, Frankfurt School of Finance & Management gGmbH, Adickesallee 32-34, 60322 Frankfurt am Main, E-Mail: [e.moench@fs.de](mailto:e.moench@fs.de).
 
 ### 2. Überblick
 
