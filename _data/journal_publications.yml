@@ -35,6 +35,34 @@
   links:
     - { label: PDF, url: "/files/papers/Jank_Moench_Schneider(CEPRDP_2026).pdf" }
 
+- title: OTC Discount
+  url: https://pubsonline.informs.org/doi/epdf/10.1287/mnsc.2022.00194
+  with: Calebe de Roure, Loriana Pelizzon, and Michael T. Schneider
+  details: "*Management Science*, Vol. 72 No. 6, June 2026"
+  abstract: >-
+    We document a pecking order of transaction costs in the interdealer market for German sovereign bonds, where
+    three trading protocols coexist. Dealers can trade over-the-counter, either bilaterally or via brokers, as well
+    as on an exchange. Trading on the exchange is more expensive than OTC, and broker-intermediated are more costly
+    than bilateral OTC trades. The existence of an OTC discount is difficult to square with theories centred around
+    search-and-bargaining frictions, but is in line with models of hybrid markets based on information frictions.
+    Consistently, we show that dealers' information impacts their choice of trading protocol and that the pecking
+    order of transaction costs is aligned with the informational content of order flows across protocols.
+    Search-and-bargaining as well as information proxies explain differences in OTC discount within protocols. A
+    realistic description of hybrid markets thus requires both types of frictions.
+  bibtex: |-
+    @article{DeRoure_Moench_Pelizzon_Schneider_MS2025,
+      title={OTC Discount},
+      author={De Roure, Calebe and Moench, Emanuel and Pelizzon, Loriana and Schneider, Michael},
+      journal={Management Science},
+      volume={72},
+      number={6},
+      pages={4633--4651},
+      year={2026},
+      publisher={INFORMS}
+    }
+  links:
+    - { label: PDF, url: "/files/papers/DeRoure_Moench_Pelizzon_Schneider(MS2025).pdf" }
+
 - title: A KISS for Central Bank Communication in Times of High Inflation
   url: https://www.sciencedirect.com/science/article/pii/S0261560626000707
   with: Mathias Hoffmann, Lora Pavlova, and Guido Schultefrankenfeld
@@ -62,7 +90,7 @@
 - title: Equity Premium Predictability over the Business Cycle
   url: https://www.cambridge.org/core/journals/journal-of-financial-and-quantitative-analysis/article/abs/equity-premium-predictability-over-the-business-cycle/2DB91AB43900E18630D84C78F7FE85A8
   with: Tobias Stein
-  details: forthcoming, *Journal of Financial and Quantitative Analysis*
+  details: "*Journal of Financial and Quantitative Analysis*, Vol. 61 No. 3, May 2026"
   abstract: >-
     Equity returns follow a pronounced V-shape pattern around the onset of recessions. They sharply drop into
     negative territory just before business cycle peaks and then strongly recover as the recession unfolds.
@@ -76,38 +104,14 @@
       title={Equity Premium Predictability over the Business Cycle},
       author={Moench, Emanuel and Stein, Tobias},
       journal={Journal of Financial and Quantitative Analysis},
-      volume={forthcoming},
-      year={2025},
+      volume={61},
+      number={3},
+      pages={1216--1246},
+      year={2026},
       publisher={Cambridge University Press}
     }
   links:
     - { label: PDF, url: "/files/papers/Moench_Stein(JFQA2025).pdf" }
-
-- title: OTC Discount
-  url: https://pubsonline.informs.org/doi/epdf/10.1287/mnsc.2022.00194
-  with: Calebe de Roure, Loriana Pelizzon, and Michael T. Schneider
-  details: forthcoming, *Management Science*
-  abstract: >-
-    We document a pecking order of transaction costs in the interdealer market for German sovereign bonds, where
-    three trading protocols coexist. Dealers can trade over-the-counter, either bilaterally or via brokers, as well
-    as on an exchange. Trading on the exchange is more expensive than OTC, and broker-intermediated are more costly
-    than bilateral OTC trades. The existence of an OTC discount is difficult to square with theories centred around
-    search-and-bargaining frictions, but is in line with models of hybrid markets based on information frictions.
-    Consistently, we show that dealers' information impacts their choice of trading protocol and that the pecking
-    order of transaction costs is aligned with the informational content of order flows across protocols.
-    Search-and-bargaining as well as information proxies explain differences in OTC discount within protocols. A
-    realistic description of hybrid markets thus requires both types of frictions.
-  bibtex: |-
-    @article{DeRoure_Moench_Pelizzon_Schneider_MS2025,
-      title={OTC Discount},
-      author={De Roure, Calebe and Moench, Emanuel and Pelizzon, Loriana and Schneider, Michael},
-      journal={Management Science},
-      volume={forthcoming},
-      year={2025},
-      publisher={INFORMS}
-    }
-  links:
-    - { label: PDF, url: "/files/papers/DeRoure_Moench_Pelizzon_Schneider(MS2025).pdf" }
 
 - title: Natural Disasters as Macroeconomic Tail Risks
   url: https://www.sciencedirect.com/science/article/pii/S0304407624002653
