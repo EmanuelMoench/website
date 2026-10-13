@@ -5,6 +5,23 @@
 # at the top of journal_publications.yml.
 # ---------------------------------------------------------------
 
+- title: Factor-Augmented VARs with Noisy Factor Proxies
+  # url: add the SSRN link here once the SSRN page exists
+  with: Soroosh Soofi-Siavash
+  details: Working Paper, September 2026
+  abstract: >-
+    Factor-augmented VARs (FAVARs) combine latent factors extracted from large panels with factors that are assumed
+    to be perfectly observed. We relax this assumption by treating individual variables as noisy factor proxies. Our
+    proposed estimation approach iterates between principal component extraction and reduced-rank regression and
+    allows multiple proxies to inform factor estimation. The estimated factors are shown to be consistent in the
+    presence of weak factors. A group-lasso extension enables sparse proxy selection, and a cross-validation scheme
+    jointly selects model dimensions and tuning parameters. Monte Carlo evidence shows that the method substantially
+    improves factor estimation and forecasting with weak factors, and reduces bias in structural impulse response
+    estimation when observable factor proxies are measured with error. We document the usefulness of our approach in
+    a recursive pseudo-out-of-sample bond return forecasting analysis.
+  links:
+    - { label: PDF, url: "/files/papers/Moench_Soofi-Siavash(FAVAR_Sep2026).pdf" }
+
 - title: Extreme Weather Events, Fiscal Space, and the Term Structure of Sovereign Debt
   url: https://hub.cepr.org/published-discussion-paper/298789
   with: Robin Schaal
