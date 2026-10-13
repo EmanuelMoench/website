@@ -19,7 +19,7 @@
     Unit at the request of the Committee on Economic and Monetary Affairs (ECON) ahead of the Monetary Dialogue with
     the ECB President on 6 October 2025.
   links:
-    - { label: PDF, url: "https://raw.githubusercontent.com/EmanuelMoench/website/Other-Publications/EP_MEP_FSFM_Bonn_2510.pdf" }
+    - { label: PDF, url: "/files/papers/EP_MEP_FSFM_Bonn_2510.pdf" }
 
 - title: A KISS for central bank communication in times of high inflation
   url: https://www.suerf.org/publications/suerf-policy-notes-and-briefs/a-kiss-for-central-bank-communication-in-times-of-high-inflation/
@@ -32,7 +32,7 @@
     inflation path can substantially lower households’ inflation expectations when kept in a sophisticatedly simple
     (KISS) way.
   links:
-    - { label: PDF, url: "https://raw.githubusercontent.com/EmanuelMoench/website/Other-Publications/SUERF-Policy-Brief-1211_Hoffmann_et_al_July2025.pdf" }
+    - { label: PDF, url: "/files/papers/SUERF-Policy-Brief-1211_Hoffmann_et_al_July2025.pdf" }
 
 - title: A KISS for central bank communication in times of high inflation
   url: https://publikationen.bundesbank.de/publikationen-en/research/research-brief/2025-75-central-bank-communication-inflation-922440
@@ -45,7 +45,7 @@
     inflation path can substantially lower households’ inflation expectations when kept in a sophisticatedly simple
     (KISS) way.
   links:
-    - { label: PDF, url: "https://raw.githubusercontent.com/EmanuelMoench/website/Other-Publications/Bundesbank-Research-Brief-75-May2025.pdf" }
+    - { label: PDF, url: "/files/papers/Bundesbank-Research-Brief-75-May2025.pdf" }
 
 - title: "Forceful or persistent: How the ECB’s New Inflation Target Affects Households’ Inflation Expectations"
   url: https://www.suerf.org/publications/suerf-policy-notes-and-briefs/forceful-or-persistent-how-the-ecbs-new-inflation-target-affects-households-inflation-expectations/
@@ -64,7 +64,7 @@
     informed about the ECB’s increased tolerance for inflation overshooting, they expect substantially higher
     inflation in the following years when current inflation is running below target.
   links:
-    - { label: PDF, url: "https://raw.githubusercontent.com/EmanuelMoench/website/Other-Publications/SUERF-Policy-Brief-794_Hoffmann-et-al.pdf" }
+    - { label: PDF, url: "/files/papers/SUERF-Policy-Brief-794_Hoffmann-et-al.pdf" }
 
 - title: "Words speak louder than numbers: Central bank communication in times of high inflation"
   url: https://cepr.org/voxeu/columns/words-speak-louder-numbers-central-bank-communication-times-high-inflation
@@ -92,7 +92,7 @@
     The differences become more accentuated when the respondents are also told that the new monetary policy strategy
     entails the possibility of inflation exceeding the target.
   links:
-    - { label: PDF, url: "https://raw.githubusercontent.com/EmanuelMoench/website/Other-Publications/Bundesbank-Research-Brief-43-Nov2021.pdf" }
+    - { label: PDF, url: "/files/papers/Bundesbank-Research-Brief-43-Nov2021.pdf" }
 
 - title: Climate Change and Monetary Policy in the Euro Area
   url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3928292
@@ -111,7 +111,7 @@
     paper concludes with an analysis of a set of potential monetary policy measures to address climate risks,
     insofar as they are in line with the ECB’s mandate.
   links:
-    - { label: PDF, url: "https://raw.githubusercontent.com/EmanuelMoench/website/Other-Publications/ECB_OP271_Sep2021.pdf" }
+    - { label: PDF, url: "/files/papers/ECB_OP271_Sep2021.pdf" }
 
 - title: "Clear, Consistent and Engaging: ECB Monetary Policy Communication in a Changing World"
   url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3928296
@@ -130,7 +130,7 @@
     communication, including greater engagement with the wider public, could help boost people’s understanding of
     and trust in the Eurosystem.
   links:
-    - { label: PDF, url: "https://raw.githubusercontent.com/EmanuelMoench/website/Other-Publications/ECB_OP274_Sep2021.pdf" }
+    - { label: PDF, url: "/files/papers/ECB_OP274_Sep2021.pdf" }
 
 - title: Market liquidity of European sovereign bonds during the Covid-19 crisis
   url: https://safe-frankfurt.de/news-latest/safe-finance-blog/details/market-liquidity-of-european-sovereign-bonds-during-the-covid-19-crisis.html
@@ -179,20 +179,20 @@
     higher-yielding, longer-duration and lower-rated assets as yield spreads compress. We show that this intensifies
     asset price volatility and highlight reasons behind this procyclical investment behaviour.
   links:
-    - { label: PDF, url: "https://raw.githubusercontent.com/EmanuelMoench/website/Other-Publications/Bundesbank-Research-Brief-38-Jan2021.pdf" }
+    - { label: PDF, url: "/files/papers/Bundesbank-Research-Brief-38-Jan2021.pdf" }
 
 - title: "Inflation: Drivers and Dynamics 2020 CEBRA Annual Meeting Session Summary"
   url: https://www.clevelandfed.org/~/media/content/newsroom%20and%20events/publications/economic%20commentary/2021/ec%20202103/ec202103.pdf
   with: Edward S. Knotek II, Robert Rich, Raphael Schoenle, Michael Lamla, and Michael Weber
   details: "**Federal Reserve Bank of Cleveland Economic Commentary** No. 2021-03, February 2021"
   links:
-    - { label: PDF, url: "https://raw.githubusercontent.com/EmanuelMoench/website/Other-Publications/Cleveland_Fed_Economic_Commentary_Nov2021.pdf" }
+    - { label: PDF, url: "/files/papers/Cleveland_Fed_Economic_Commentary_Nov2021.pdf" }
 
 - title: "Discussion: What Type of Banking System is Needed to Accompany the Capital Markets Union?"
   url: https://books.google.de/books?id=m_q-DwAAQBAJ
   details: Capital Markets Union and Beyond, MIT Press, 2019
   links:
-    - { label: PDF, url: "https://raw.githubusercontent.com/EmanuelMoench/website/Other-Publications/Discussion_Bini-Smaghi_Marcussen-Capital_Markets_Union_and_Beyond_2019.pdf" }
+    - { label: PDF, url: "/files/papers/Discussion_Bini-Smaghi_Marcussen-Capital_Markets_Union_and_Beyond_2019.pdf" }
 
 - title: The Term Structures of Global Yields
   url: https://www.bis.org/publ/bppdf/bispap102_keynote.pdf
@@ -208,7 +208,7 @@
     components of global yields; and (iv) global bond yields strongly respond to US target rate shocks, albeit with
     considerable delay. This response is primarily driven by a reassessment of global policy rate expectations.
   links:
-    - { label: PDF, url: "https://raw.githubusercontent.com/EmanuelMoench/website/Other-Publications/Moench_BIS_Keynote_Nov2018.pdf" }
+    - { label: PDF, url: "/files/papers/Moench_BIS_Keynote_Nov2018.pdf" }
 
 - title: "The Pre-FOMC Announcement Drift: More Recent Evidence"
   url: https://libertystreeteconomics.newyorkfed.org/2018/11/the-pre-fomc-announcement-drift-more-recent-evidence.html
@@ -231,7 +231,7 @@
     investigates the impact of the Eurosystem’s monetary policy asset purchase programme on the repo market, and
     shows that central bank securities lending can help to counteract scarcity.
   links:
-    - { label: PDF, url: "https://raw.githubusercontent.com/EmanuelMoench/website/Other-Publications/Bundesbank-Research-Brief-21-Sep2018.pdf" }
+    - { label: PDF, url: "/files/papers/Bundesbank-Research-Brief-21-Sep2018.pdf" }
 
 - title: "Learning from disagreement: Evidence from forecasters"
   url: https://cepr.org/voxeu/columns/learning-disagreement-evidence-forecasters
@@ -408,4 +408,4 @@
     particular a rise in the share of mortgages eligible to be securitized by the housing government-sponsored
     enterprises, also play a role in the low current ARM share.
   links:
-    - { label: PDF, url: "https://raw.githubusercontent.com/EmanuelMoench/website/Other-Publications/Moench_Vickery_Aragon(CurrentIssues2010).pdf" }
+    - { label: PDF, url: "/files/papers/Moench_Vickery_Aragon(CurrentIssues2010).pdf" }

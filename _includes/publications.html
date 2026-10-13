@@ -22,7 +22,11 @@
         <button type="button" class="chip" aria-expanded="false" aria-controls="{{ pid }}-bib">{{ t.cite }}</button>
         {%- endif %}
         {%- for link in p.links %}
+        {%- if link.url contains '://' %}
         <a class="chip chip--link" href="{{ link.url }}" target="_blank" rel="noopener">{{ link.label }}</a>
+        {%- else %}
+        <a class="chip chip--link" href="{{ link.url | relative_url }}" download>{{ link.label }}</a>
+        {%- endif %}
         {%- endfor %}
       </div>
       {%- if p.abstract %}

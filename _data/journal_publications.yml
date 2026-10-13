@@ -33,7 +33,7 @@
       publisher={Elsevier}
     }
   links:
-    - { label: PDF, url: "https://github.com/EmanuelMoench/website/blob/Working-Papers/Jank_Moench_Schneider(CEPRDP_2026).pdf" }
+    - { label: PDF, url: "/files/papers/Jank_Moench_Schneider(CEPRDP_2026).pdf" }
 
 - title: A KISS for central bank communication in times of high inflation
   url: https://www.sciencedirect.com/science/article/pii/S0261560626000707
@@ -57,7 +57,7 @@
       publisher={Elsevier}
     }
   links:
-    - { label: PDF, url: "https://github.com/EmanuelMoench/website/blob/Journal-Publications/Hoffmann_Moench_Pavlova_Schultefrankenfeld(JIMF_2026).pdf" }
+    - { label: PDF, url: "/files/papers/Hoffmann_Moench_Pavlova_Schultefrankenfeld(JIMF_2026).pdf" }
 
 - title: Equity Premium Predictability over the Business Cycle
   url: https://www.cambridge.org/core/journals/journal-of-financial-and-quantitative-analysis/article/abs/equity-premium-predictability-over-the-business-cycle/2DB91AB43900E18630D84C78F7FE85A8
@@ -81,7 +81,7 @@
       publisher={Cambridge University Press}
     }
   links:
-    - { label: PDF, url: "https://github.com/EmanuelMoench/website/blob/Journal-Publications/Moench_Stein(JFQA2025).pdf" }
+    - { label: PDF, url: "/files/papers/Moench_Stein(JFQA2025).pdf" }
 
 - title: OTC Discount
   url: https://pubsonline.informs.org/doi/epdf/10.1287/mnsc.2022.00194
@@ -107,7 +107,7 @@
       publisher={INFORMS}
     }
   links:
-    - { label: PDF, url: "https://github.com/EmanuelMoench/website/blob/Journal-Publications/DeRoure_Moench_Pelizzon_Schneider(MS2025).pdf" }
+    - { label: PDF, url: "/files/papers/DeRoure_Moench_Pelizzon_Schneider(MS2025).pdf" }
 
 - title: Natural Disasters as Macroeconomic Tail Risks
   url: https://www.sciencedirect.com/science/article/pii/S0304407624002653
@@ -136,8 +136,8 @@
       publisher={Elsevier}
     }
   links:
-    - { label: PDF, url: "https://github.com/EmanuelMoench/website/blob/Journal-Publications/Chavleishvili_Moench(JoE2025).pdf" }
-    - { label: Code, url: "https://github.com/EmanuelMoench/website/blob/Replication-Codes/Chavleishvili_Moench_JoE2025_codes.zip" }
+    - { label: PDF, url: "/files/papers/Chavleishvili_Moench(JoE2025).pdf" }
+    - { label: Code, url: "/files/code/Chavleishvili_Moench_JoE2025_codes.zip" }
 
 - title: Anchored Inflation Expectations
   url: https://www.aeaweb.org/articles?id=10.1257/mac.20200080
@@ -163,7 +163,7 @@
       publisher={American Economic Association}
     }
   links:
-    - { label: PDF, url: "https://github.com/EmanuelMoench/website/blob/Journal-Publications/Carvalho_Eusepi_Moench_Preston(AEJMacro2023).pdf" }
+    - { label: PDF, url: "/files/papers/Carvalho_Eusepi_Moench_Preston(AEJMacro2023).pdf" }
 
 - title: What moves Treasury Yields?
   url: https://www.sciencedirect.com/science/article/abs/pii/S0304405X22000770
@@ -191,8 +191,8 @@
       publisher={Elsevier}
     }
   links:
-    - { label: PDF, url: "https://github.com/EmanuelMoench/website/blob/Journal-Publications/Moench_Soofi-Siavash(JFE2022).pdf" }
-    - { label: Code, url: "https://github.com/EmanuelMoench/website/blob/Replication-Codes/Moench_Soofi-Siavash_JFE2022_codes.zip" }
+    - { label: PDF, url: "/files/papers/Moench_Soofi-Siavash(JFE2022).pdf" }
+    - { label: Code, url: "/files/code/Moench_Soofi-Siavash_JFE2022_codes.zip" }
 
 - title: The Term Structure of Expectations
   url: https://www.sciencedirect.com/science/article/abs/pii/B9780128229279000252
@@ -208,7 +208,7 @@
       publisher={Elsevier}
     }
   links:
-    - { label: PDF, url: "https://github.com/EmanuelMoench/website/blob/Journal-Publications/Crump_Eusepi_Moench_Preston_(HBchapter2022).pdf" }
+    - { label: PDF, url: "/files/papers/Crump_Eusepi_Moench_Preston_(HBchapter2022).pdf" }
 
 - title: Would Households Understand Average Inflation Targeting?
   url: https://www.sciencedirect.com/science/article/abs/pii/S030439322200023X
@@ -229,7 +229,7 @@
       publisher={Elsevier}
     }
   links:
-    - { label: PDF, url: "https://github.com/EmanuelMoench/website/blob/Journal-Publications/Hoffmann_Moench_Pavlova_Schultefrankenfeld(JME2022).pdf" }
+    - { label: PDF, url: "/files/papers/Hoffmann_Moench_Pavlova_Schultefrankenfeld(JME2022).pdf" }
 
 - title: Comment on “Monetary Policy Communication, Policy Slope, and the Stock Market” by Andreas Neuhierl and Michael Weber
   url: https://www.sciencedirect.com/science/article/abs/pii/S030439321930159X
@@ -254,7 +254,7 @@
       publisher={Elsevier}
     }
   links:
-    - { label: PDF, url: "https://github.com/EmanuelMoench/website/blob/Journal-Publications/Moench_Stein(JMEcomment2019).pdf" }
+    - { label: PDF, url: "/files/papers/Moench_Stein(JMEcomment2019).pdf" }
 
 - title: "Forecasting through the Rear-view Mirror: Data Revisions and Bond Return Predictability"
   url: https://academic.oup.com/rfs/article-abstract/31/2/678/4090998
@@ -278,7 +278,7 @@
       publisher={Oxford University Press}
     }
   links:
-    - { label: PDF, url: "https://github.com/EmanuelMoench/website/blob/Journal-Publications/Ghysels_Horan_Moench(RFS2018).pdf" }
+    - { label: PDF, url: "/files/papers/Ghysels_Horan_Moench(RFS2018).pdf" }
 
 - title: Decomposing Real and Nominal Yield Curves
   url: https://www.sciencedirect.com/science/article/abs/pii/S0304393216301088
@@ -302,7 +302,7 @@
       publisher={Elsevier}
     }
   links:
-    - { label: PDF, url: "https://github.com/EmanuelMoench/website/blob/Journal-Publications/Abrahams_Adrian_Crump_Moench_Yu(JME2016).pdf" }
+    - { label: PDF, url: "/files/papers/Abrahams_Adrian_Crump_Moench_Yu(JME2016).pdf" }
 
 - title: Fundamental Disagreement
   url: https://www.sciencedirect.com/science/article/abs/pii/S0304393216300794
@@ -326,7 +326,7 @@
       publisher={Elsevier}
     }
   links:
-    - { label: PDF, url: "https://github.com/EmanuelMoench/website/blob/Journal-Publications/Andrade_Crump_Eusepi_Moench(JME2016).pdf" }
+    - { label: PDF, url: "/files/papers/Andrade_Crump_Eusepi_Moench(JME2016).pdf" }
 
 - title: What Predicts U.S. Recessions?
   url: https://www.sciencedirect.com/science/article/abs/pii/S0169207016300279
@@ -354,7 +354,7 @@
       publisher={Elsevier}
     }
   links:
-    - { label: PDF, url: "https://github.com/EmanuelMoench/website/blob/Journal-Publications/Liu_Moench(INTFOR2016).pdf" }
+    - { label: PDF, url: "/files/papers/Liu_Moench(INTFOR2016).pdf" }
 
 - title: Regression-Based Estimation of Dynamic Asset Pricing Models
   url: https://www.sciencedirect.com/science/article/abs/pii/S0304405X15001397
@@ -381,7 +381,7 @@
       publisher={Elsevier}
     }
   links:
-    - { label: PDF, url: "https://github.com/EmanuelMoench/website/blob/Journal-Publications/Adrian_Crump_Moench(JFE2015).pdf" }
+    - { label: PDF, url: "/files/papers/Adrian_Crump_Moench(JFE2015).pdf" }
 
 - title: The Pre-FOMC Announcement Drift
   url: https://onlinelibrary.wiley.com/doi/10.1111/jofi.12196
@@ -410,7 +410,7 @@
       publisher={Wiley Online Library}
     }
   links:
-    - { label: PDF, url: "https://github.com/EmanuelMoench/website/blob/Journal-Publications/Lucca_Moench(JF2015).pdf" }
+    - { label: PDF, url: "/files/papers/Lucca_Moench(JF2015).pdf" }
 
 - title: Dynamic Hierarchical Factor Models
   url: https://direct.mit.edu/rest/article-abstract/95/5/1811/58151/Dynamic-Hierarchical-Factor-Models
@@ -436,8 +436,8 @@
       publisher={The MIT Press}
     }
   links:
-    - { label: PDF, url: "https://github.com/EmanuelMoench/website/blob/Journal-Publications/Moench_Ng_Potter(REStat2013).pdf" }
-    - { label: Code, url: "https://github.com/EmanuelMoench/website/blob/Replication-Codes/Moench_Ng_REStat2013_codes.zip" }
+    - { label: PDF, url: "/files/papers/Moench_Ng_Potter(REStat2013).pdf" }
+    - { label: Code, url: "/files/code/Moench_Ng_REStat2013_codes.zip" }
 
 - title: Pricing the Term Structure with Linear Regressions
   url: https://www.sciencedirect.com/science/article/abs/pii/S0304405X13001335
@@ -463,9 +463,9 @@
       publisher={Elsevier}
     }
   links:
-    - { label: PDF, url: "https://github.com/EmanuelMoench/website/blob/Journal-Publications/Adrian_Crump_Moench(JFE2013).pdf" }
+    - { label: PDF, url: "/files/papers/Adrian_Crump_Moench(JFE2013).pdf" }
     - { label: ACM Term premium, url: "https://www.newyorkfed.org/research/data_indicators/term-premia-tabs#/overview" }
-    - { label: Code, url: "https://github.com/EmanuelMoench/website/blob/Replication-Codes/Adrian_Crump_Moench_JFE2013_codes.zip" }
+    - { label: Code, url: "/files/code/Adrian_Crump_Moench_JFE2013_codes.zip" }
 
 - title: "Term Structure Surprises: The Predictive Content of Curvature, Level, and Slope"
   url: https://onlinelibrary.wiley.com/doi/10.1002/jae.1220
@@ -489,7 +489,7 @@
       publisher={Wiley Online Library}
     }
   links:
-    - { label: PDF, url: "https://github.com/EmanuelMoench/website/blob/Journal-Publications/Moench(JAE2012).pdf" }
+    - { label: PDF, url: "/files/papers/Moench(JAE2012).pdf" }
 
 - title: The Persistent Effects of a False News Shock
   url: https://www.sciencedirect.com/science/article/abs/pii/S092753981100020X
@@ -521,7 +521,7 @@
       publisher={Elsevier}
     }
   links:
-    - { label: PDF, url: "https://github.com/EmanuelMoench/website/blob/Journal-Publications/Carvalho_Klagge_Moench(JEF2011).pdf" }
+    - { label: PDF, url: "/files/papers/Carvalho_Klagge_Moench(JEF2011).pdf" }
 
 - title: A Hierarchical Factor Analysis of US Housing Market Dynamics
   url: https://academic.oup.com/ectj/article-abstract/14/1/C1/5060345
@@ -550,7 +550,7 @@
       publisher={Wiley Online Library}
     }
   links:
-    - { label: PDF, url: "https://github.com/EmanuelMoench/website/blob/Journal-Publications/Moench_Ng(EconomJ2011).pdf" }
+    - { label: PDF, url: "/files/papers/Moench_Ng(EconomJ2011).pdf" }
 
 - title: Macro Risk Premium and Intermediary Balance Sheet Quantities
   url: https://link.springer.com/article/10.1057/imfer.2010.5
@@ -577,7 +577,7 @@
       publisher={Springer}
     }
   links:
-    - { label: PDF, url: "https://github.com/EmanuelMoench/website/blob/Journal-Publications/Adrian_Moench_Shin(IMFER2010).pdf" }
+    - { label: PDF, url: "/files/papers/Adrian_Moench_Shin(IMFER2010).pdf" }
 
 - title: Sectoral Price Data and Models of Price Setting
   url: https://www.sciencedirect.com/science/article/abs/pii/S0304393209000877
@@ -603,7 +603,7 @@
       publisher={Elsevier}
     }
   links:
-    - { label: PDF, url: "https://github.com/EmanuelMoench/website/blob/Journal-Publications/Mackowiak_Moench_Wiederholt(JME2009).pdf" }
+    - { label: PDF, url: "/files/papers/Mackowiak_Moench_Wiederholt(JME2009).pdf" }
 
 - title: "Forecasting the Yield Curve in a Data-Rich Environment: A No-Arbitrage Factor-Augmented VAR Approach"
   url: https://www.sciencedirect.com/science/article/abs/pii/S0304407608000730
@@ -628,7 +628,7 @@
       publisher={Elsevier}
     }
   links:
-    - { label: PDF, url: "https://github.com/EmanuelMoench/website/blob/Journal-Publications/Moench(JoE2008).pdf" }
+    - { label: PDF, url: "/files/papers/Moench(JoE2008).pdf" }
 
 - title: Towards a Monthly Business Cycle Chronology for the Euro Area
   url: https://www.oecd.org/en/publications/journal-of-business-cycle-measurement-and-analysis/volume-2005/issue-1_jbcma-v2005-1-en.html
@@ -653,5 +653,5 @@
       year={2005}
     }
   links:
-    - { label: PDF, url: "https://github.com/EmanuelMoench/website/blob/Journal-Publications/Moench_Uhlig(JBCMA2005).pdf" }
-    - { label: Code, url: "https://github.com/EmanuelMoench/website/blob/Replication-Codes/Moench_Uhlig_JBCMA2005_codes.zip" }
+    - { label: PDF, url: "/files/papers/Moench_Uhlig(JBCMA2005).pdf" }
+    - { label: Code, url: "/files/code/Moench_Uhlig_JBCMA2005_codes.zip" }

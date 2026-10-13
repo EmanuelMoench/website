@@ -20,7 +20,7 @@
     plays a larger role in emerging markets. Our findings highlight fiscal space as a key determinant of how climate
     shocks propagate through sovereign debt markets.
   links:
-    - { label: PDF, url: "https://github.com/EmanuelMoench/website/blob/main/Moench_Schaal(CEPR_DP21479).pdf" }
+    - { label: PDF, url: "/files/papers/Moench_Schaal(CEPR_DP21479).pdf" }
 
 - title: Is There Hope for the Expectations Hypothesis?
   url: https://www.newyorkfed.org/research/staff_reports/sr1098
@@ -40,7 +40,7 @@
     best, only a weak co-movement with the forward rates of corresponding maturities, both unconditionally and in
     response to a monetary policy shock.
   links:
-    - { label: PDF, url: "https://github.com/EmanuelMoench/website/blob/Working-Papers/Crump_Eusepi_Moench(NYFed_SR_1098_Feb2026).pdf" }
+    - { label: PDF, url: "/files/papers/Crump_Eusepi_Moench(NYFed_SR_1098_Feb2026).pdf" }
 
 - title: Reaching for Beta
   url: https://hub.cepr.org/published-discussion-paper/280725
@@ -56,7 +56,7 @@
     months to dissipate. In contrast to reaching for yield, which associates low interest rates with risk-shifting,
     reaching for beta implies that tighter monetary policy increases risk-taking in the equity market.
   links:
-    - { label: PDF, url: "https://github.com/EmanuelMoench/website/blob/Working-Papers/Genc_Moench_Pazarbasi(CEPR_DP20812_Dec2025).pdf" }
+    - { label: PDF, url: "/files/papers/Genc_Moench_Pazarbasi(CEPR_DP20812_Dec2025).pdf" }
 
 - title: Energy-saving technology shocks, emissions, and the macroeconomy
   url: https://hub.cepr.org/published-discussion-paper/219477
@@ -73,7 +73,7 @@
     consumption and new emissions. Green technology shocks are associated with a substitution of fossil fuel end-use
     to electricity, much of which has historically been generated using fossil fuels.
   links:
-    - { label: PDF, url: "https://github.com/EmanuelMoench/website/blob/Working-Papers/Moench_Soofi-Siavash(CEPR_DP19656_June2025).pdf" }
+    - { label: PDF, url: "/files/papers/Moench_Soofi-Siavash(CEPR_DP19656_June2025).pdf" }
 
 - title: Mining Shocks, Blockchain Security, and the Value of Bitcoin
   url: https://cepr.org/publications/dp20141
@@ -88,7 +88,7 @@
     attacks and as such impact investor beliefs about the future state of the network and thus Bitcoin’s usefulness
     as a means of payment.
   links:
-    - { label: PDF, url: "https://github.com/EmanuelMoench/website/blob/Working-Papers/Karau_Moench(CEPR_DP20141_Apr2025).pdf" }
+    - { label: PDF, url: "/files/papers/Karau_Moench(CEPR_DP20141_Apr2025).pdf" }
 
 - title: How Do We Learn About the Long Run?
   url: https://www.newyorkfed.org/research/staff_reports/sr1150
@@ -104,7 +104,7 @@
     macroeconomic modelling should reconsider the conventional assumption that agents operate in a well-understood
     stationary environment.
   links:
-    - { label: PDF, url: "https://github.com/EmanuelMoench/website/blob/Working-Papers/Crump_Eusepi_Moench_Preston(NYFed_SR1150_Apr2025).pdf" }
+    - { label: PDF, url: "/files/papers/Crump_Eusepi_Moench_Preston(NYFed_SR1150_Apr2025).pdf" }
 
 - title: Household beliefs about fiscal dominance
   url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5097443
@@ -122,7 +122,7 @@
     expect fiscal dominance in the future exert upward pressure on inflation. An active central bank may choose to
     partially tolerate this higher inflation due to the real costs of completely stabilizing prices.
   links:
-    - { label: PDF, url: "https://github.com/EmanuelMoench/website/blob/Working-Papers/Andrade_Gauthier_Mengus_Moench_Schmidt(BdF_WP986_Mar2025).pdf" }
+    - { label: PDF, url: "/files/papers/Andrade_Gauthier_Mengus_Moench_Schmidt(BdF_WP986_Mar2025).pdf" }
 
 - title: The Asymmetric and Persistent Effects of Fed Policy on Global Bond Yields
   url: https://www.bis.org/publ/work1195.htm
@@ -142,7 +142,7 @@
     returns is likely to stem at least in part from slow and persistent mutual fund flows following monetary policy
     surprises.
   links:
-    - { label: PDF, url: "https://github.com/EmanuelMoench/website/blob/Working-Papers/Adrian_Gelos_Lamersdorf_Moench(BIS_WP1195_Jul2024).pdf" }
+    - { label: PDF, url: "/files/papers/Adrian_Gelos_Lamersdorf_Moench(BIS_WP1195_Jul2024).pdf" }
 
 - title: "Forceful or Persistent: How the ECB's New Inflation Target Affects Households' Inflation Expectations"
   url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4630646
@@ -157,7 +157,7 @@
     above 2% in the medium term. Participants do not expect an undershooting when inflation is currently running
     above target.
   links:
-    - { label: PDF, url: "https://github.com/EmanuelMoench/website/blob/Working-Papers/Hoffmann_Moench_Pavlova_Schultefrankenfeld(BuBa_DP_272023_Jul2023).pdf" }
+    - { label: PDF, url: "/files/papers/Hoffmann_Moench_Pavlova_Schultefrankenfeld(BuBa_DP_272023_Jul2023).pdf" }
 
 - title: Fundamental Disagreement about Monetary Policy and the Term Structure of Interest Rates
   url: https://www.newyorkfed.org/research/staff_reports/sr934
@@ -174,4 +174,4 @@
     risk in the Treasury market. Accounting for heterogeneity in investment performance eliminates the downward trend
     in the term premium.
   links:
-    - { label: PDF, url: "https://github.com/EmanuelMoench/website/blob/Working-Papers/Cao_Crump_Eusepi_Moench(NYFed_SR934_Aug2021).pdf" }
+    - { label: PDF, url: "/files/papers/Cao_Crump_Eusepi_Moench(NYFed_SR934_Aug2021).pdf" }

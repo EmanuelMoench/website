@@ -3,9 +3,9 @@
 Personal website of Emanuel Mönch, built with [Jekyll](https://jekyllrb.com) and hosted for free on GitHub Pages.
 Every change saved to the `main` branch goes live automatically within about a minute.
 
-PDFs, replication code, photos and media screenshots stay in the other branches of this repository
-(`Journal-Publications`, `Working-Papers`, `Other-Publications`, `Replication-Codes`, `Pictures-Videos`, `Media`, `About`)
-and are linked from the site.
+PDFs and replication code are stored in the site itself, in `files/papers/` and `files/code/`
+(the CV is `files/CV_Emanuel_Moench.pdf`), so the PDF and Code buttons download the file directly.
+Photos and media screenshots are in `assets/images/`.
 
 ---
 
@@ -21,7 +21,8 @@ Open a file on github.com, click the **pencil icon** (✎), make the change, the
 | Add a media appearance | `_data/media.yml` |
 | Change the advisory roles on “Other” | `_data/affiliations.yml` |
 | Change the bio | `index.md` (English) and `german/uber-mich.md` (German) |
-| Change address, e-mail, phone, CV link | `_config.yml` |
+| Change address, e-mail, phone | `_config.yml` |
+| Replace the CV | upload a new `files/CV_Emanuel_Moench.pdf` |
 | Change the imprint / privacy text | `imprint.md`, `data-protection.md`, `german/impressum.md`, `german/datenschutz.md` |
 | Change menu words or button labels | `_data/i18n.yml` |
 
@@ -42,7 +43,7 @@ Copy an existing entry in the YAML file, paste it at the **top** (lists are show
   bibtex: |-
     @article{...}
   links:
-    - { label: PDF, url: "https://github.com/EmanuelMoench/website/blob/Working-Papers/MyNewPaper.pdf" }
+    - { label: PDF, url: "/files/papers/MyNewPaper.pdf" }
     - { label: Code, url: "https://..." }
 ```
 
@@ -53,9 +54,17 @@ Rules of thumb for YAML:
 
 ### Uploading a PDF
 
-Switch to the right branch (e.g. **Working-Papers**) with the branch selector on github.com,
-click **Add file → Upload files**, drop the PDF, commit. Then use the link
-`https://github.com/EmanuelMoench/website/blob/<Branch>/<FileName>.pdf` in the YAML entry.
+On github.com, open the folder `files/papers` (on the `main` branch), click **Add file → Upload files**,
+drop the PDF and commit. Then put this in the paper's `links:` in the YAML file:
+
+```yaml
+  links:
+    - { label: PDF, url: "/files/papers/MyNewPaper.pdf" }
+```
+
+Links that start with `/files/` download directly when clicked. To replace a PDF with a new version, upload a file
+with exactly the same name; GitHub overwrites it and the link keeps working. Replication code goes in `files/code`
+the same way. To update the CV, upload the new one as `files/CV_Emanuel_Moench.pdf`.
 
 ### Adding a media screenshot
 
@@ -113,5 +122,6 @@ _data/               all lists (publications, media, roles) and translations
 _layouts/, _includes/ page templates (normally no need to touch)
 assets/css/style.css colours, fonts, layout
 assets/images/       logo, portraits, partner logos, media screenshots
+files/               PDFs (papers/), replication code (code/), CV
 index.md …           English pages     german/ …  German pages
 ```

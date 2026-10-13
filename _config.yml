@@ -32,7 +32,7 @@ profiles:
   linkedin: "https://www.linkedin.com/in/emanuelmoench/"
 
 # CV link ("Download CV" button)
-cv: "https://github.com/EmanuelMoench/website/blob/About/CV_Emanuel_Moench_website.pdf"
+cv: "/files/CV_Emanuel_Moench.pdf"
 
 # Centre for Central Banking links
 cfcb_nav: "https://cfcb.frankfurt-school.de/"

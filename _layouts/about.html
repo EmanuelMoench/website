@@ -13,7 +13,7 @@ layout: default
       <div class="prose">
         {{ content }}
       </div>
-      <a class="button" href="{{ site.cv }}" target="_blank" rel="noopener">{{ page.cv_label }}</a>
+      <a class="button" href="{{ site.cv | relative_url }}" download>{{ page.cv_label }}</a>
     </div>
     <figure class="about-photo">
       <img src="{{ '/assets/images/portraits/portrait-09-sm.jpg' | relative_url }}" alt="Emanuel Mönch" width="900" height="653" loading="lazy">
