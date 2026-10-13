@@ -1,0 +1,30 @@
+---
+layout: default
+---
+{%- assign c = site.contact -%}
+<section class="section contact">
+  <div class="container contact-grid">
+    <div class="contact-intro">
+      <h1 class="contact-title">{{ page.heading }}</h1>
+      <p class="contact-lead">{{ page.lead }}</p>
+      <h2>{{ c.name }}</h2>
+      <p class="contact-role">{{ page.role }}</p>
+      <a class="button" href="mailto:{{ c.email }}">{{ page.mail_button }}</a>
+    </div>
+    <div class="contact-card">
+      <div class="contact-item">
+        <svg viewBox="0 0 32 32" aria-hidden="true"><path d="M16 29s9-8.6 9-16a9 9 0 10-18 0c0 7.4 9 16 9 16z"/><circle cx="16" cy="13" r="3.4"/></svg>
+        <div><h3>{{ page.label_address }}</h3><p>{% for line in c.address %}{{ line }}{% unless forloop.last %}<br>{% endunless %}{% endfor %}</p></div>
+      </div>
+      <div class="contact-item">
+        <svg viewBox="0 0 32 32" aria-hidden="true"><rect x="4" y="7" width="24" height="18" rx="2"/><path d="M4.5 8.5L16 18l11.5-9.5"/></svg>
+        <div><h3>{{ page.label_email }}</h3><p><a href="mailto:{{ c.email }}">{{ c.email }}</a></p></div>
+      </div>
+      <div class="contact-item">
+        <svg viewBox="0 0 32 32" aria-hidden="true"><rect x="9" y="3" width="14" height="26" rx="2.5"/><path d="M14 25h4"/></svg>
+        <div><h3>{{ page.label_phone }}</h3><p><a href="tel:{{ c.phone_office_link }}">{{ c.phone_office }}</a></p></div>
+      </div>
+    </div>
+  </div>
+  {{ content }}
+</section>

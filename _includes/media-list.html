@@ -1,0 +1,16 @@
+{%- assign t = site.data.i18n[page.lang] -%}
+<ul class="media-grid">
+{%- for m in site.data.media %}
+  {%- assign parts = m.date | split: '-' -%}
+  {%- assign mi = parts[1] | plus: 0 | minus: 1 -%}
+  <li>
+    <a class="media-card" href="{{ m.url }}" target="_blank" rel="noopener">
+      {%- if m.image %}
+      <span class="media-thumb"><img src="{{ '/assets/images/media/' | append: m.image | relative_url }}" alt="" loading="lazy"></span>
+      {%- endif %}
+      <span class="media-meta"><strong>{{ m.outlet }}</strong> · {{ t.months[mi] }} {{ parts[0] }}</span>
+      {%- if m.title %}<span class="media-title">{{ m.title }}</span>{% endif %}
+    </a>
+  </li>
+{%- endfor %}
+</ul>

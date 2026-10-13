@@ -1,0 +1,43 @@
+{%- comment -%}
+  Renders a list of publications from a _data file.
+  Usage: {% include publications.html items=site.data.journal_publications icon="doc" %}
+{%- endcomment -%}
+{%- assign t = site.data.i18n[page.lang] -%}
+<ol class="pub-list">
+{%- for p in include.items %}
+  {%- capture pid %}{{ include.id | default: 'pub' }}-{{ forloop.index }}{% endcapture %}
+  <li class="pub">
+    <span class="pub-icon pub-icon--{{ include.icon | default: 'doc' }}" aria-hidden="true"></span>
+    <div class="pub-body">
+      <p class="pub-cite">
+        {% if p.url %}<a class="pub-title" href="{{ p.url }}" target="_blank" rel="noopener">{{ p.title }}</a>{% else %}<span class="pub-title">{{ p.title }}</span>{% endif %}
+        {%- if p.with %} ({{ t.with }} {{ p.with }}){% endif -%}
+        {%- if p.details %}, {{ p.details | markdownify | remove: '<p>' | remove: '</p>' | strip }}{% endif %}
+      </p>
+      <div class="pub-actions">
+        {%- if p.abstract %}
+        <button type="button" class="chip" aria-expanded="false" aria-controls="{{ pid }}-abs">{% if p.label == 'teaser' %}{{ t.teaser }}{% else %}{{ t.abstract }}{% endif %}</button>
+        {%- endif %}
+        {%- if p.bibtex %}
+        <button type="button" class="chip" aria-expanded="false" aria-controls="{{ pid }}-bib">{{ t.cite }}</button>
+        {%- endif %}
+        {%- for link in p.links %}
+        <a class="chip chip--link" href="{{ link.url }}" target="_blank" rel="noopener">{{ link.label }}</a>
+        {%- endfor %}
+      </div>
+      {%- if p.abstract %}
+      <div class="pub-panel" id="{{ pid }}-abs" hidden>
+        <h3>{% if p.label == 'teaser' %}{{ t.teaser }}{% else %}{{ t.abstract }}{% endif %}</h3>
+        {{ p.abstract | markdownify }}
+      </div>
+      {%- endif %}
+      {%- if p.bibtex %}
+      <div class="pub-panel pub-panel--bib" id="{{ pid }}-bib" hidden>
+        <button type="button" class="copy-btn" data-copied="{{ t.copied }}">{{ t.copy }}</button>
+        <pre><code>{{ p.bibtex | xml_escape }}</code></pre>
+      </div>
+      {%- endif %}
+    </div>
+  </li>
+{%- endfor %}
+</ol>

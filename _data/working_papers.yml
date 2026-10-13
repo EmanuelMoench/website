@@ -1,0 +1,177 @@
+# WORKING PAPERS
+# ---------------------------------------------------------------
+# Same fields as journal_publications.yml (see the notes there).
+# When a paper gets accepted, cut its entry from here and paste it
+# at the top of journal_publications.yml.
+# ---------------------------------------------------------------
+
+- title: Extreme Weather Events, Fiscal Space, and the Term Structure of Sovereign Debt
+  url: https://hub.cepr.org/published-discussion-paper/298789
+  with: Robin Schaal
+  details: CEPR Discussion Paper No. 21479, May 2026
+  abstract: >-
+    We study the impact of extreme weather events on global sovereign bond yields. Using state-dependent panel local
+    projections, we show that the sovereign's fiscal position determines the sign of the yield response to natural
+    disaster shocks. Yields decline significantly in fiscally constrained economies and rise in unconstrained ones,
+    a pattern that remains masked in unconditional specifications. The reason is that government expenditure
+    increases in unconstrained economies and remains flat in constrained ones, generating divergent inflationary
+    dynamics that transmit to the yield curve. The state-dependent transmission operates through different channels.
+    In advanced economies, the yield response is driven by the expected path of policy rates, while the term premium
+    plays a larger role in emerging markets. Our findings highlight fiscal space as a key determinant of how climate
+    shocks propagate through sovereign debt markets.
+  links:
+    - { label: PDF, url: "https://github.com/EmanuelMoench/website/blob/main/Moench_Schaal(CEPR_DP21479).pdf" }
+
+- title: Is There Hope for the Expectations Hypothesis?
+  url: https://www.newyorkfed.org/research/staff_reports/sr1098
+  with: Richard K. Crump and Stefano Eusepi
+  details: Federal Reserve Bank of New York Staff Reports No. 1098, February 2026
+  abstract: >-
+    Most macroeconomic models impose a tight link between the term structure of interest rates and expected future
+    short rates via the expectations hypothesis (EH). While systematically rejected in the data, existing tests of
+    the EH typically assume full information rational expectations, stationarity of beliefs, or both. As such, they
+    are ill-equipped to refute the EH when these assumptions fail to hold, leaving the door open for a
+    “resurrection.” We re-evaluate the EH using direct measures of expected short rates from all available U.S.
+    surveys of professional forecasters, combined with a parsimonious model of expectations formation to construct
+    the term structure of expectations. We show that deviations from rationality and time variation in long-run
+    beliefs consistent with the observed survey data, while sizable, do not come close to bridging the gap between
+    the term structure of expectations and the term structure of interest rates. We introduce a novel test of the EH
+    and show that the EH is decisively rejected in the data. Outside of short maturities, expectations display, at
+    best, only a weak co-movement with the forward rates of corresponding maturities, both unconditionally and in
+    response to a monetary policy shock.
+  links:
+    - { label: PDF, url: "https://github.com/EmanuelMoench/website/blob/Working-Papers/Crump_Eusepi_Moench(NYFed_SR_1098_Feb2026).pdf" }
+
+- title: Reaching for Beta
+  url: https://hub.cepr.org/published-discussion-paper/280725
+  with: Altan Pazarbasi and Egemen Genc
+  details: Working Paper, December 2025
+  abstract: >-
+    Using data on equity mutual fund portfolio allocations and transactions, we show that a rise in short-term
+    interest rates via contractionary monetary policy leads fund managers to tilt their portfolios towards stocks
+    with higher market exposure. This Reaching for Beta is persistent and increases the net buying pressure of
+    high-beta stocks. Funds that actively reach for beta experience more inflows when monetary policy is
+    restrictive, while they deliver higher raw returns but no significant alpha after controlling for market and
+    other risk factors. Funds' demand for high beta stocks induces systematic price pressures, which take several
+    months to dissipate. In contrast to reaching for yield, which associates low interest rates with risk-shifting,
+    reaching for beta implies that tighter monetary policy increases risk-taking in the equity market.
+  links:
+    - { label: PDF, url: "https://github.com/EmanuelMoench/website/blob/Working-Papers/Genc_Moench_Pazarbasi(CEPR_DP20812_Dec2025).pdf" }
+
+- title: Energy-saving technology shocks, emissions, and the macroeconomy
+  url: https://hub.cepr.org/published-discussion-paper/219477
+  with: Soroosh Soofi Siavash
+  details: CEPR Discussion Paper No. 19656, June 2025
+  abstract: >-
+    We use restrictions derived from frontier models of directed technical change to identify green and non-green
+    technology shocks in a Bayesian structural VAR of the U.S. economy. We require that both shocks jointly explain
+    the bulk of the longer-run variation of total factor productivity and fossil fuel energy intensity. In addition,
+    the fossil energy income share is restricted to decline following a green and to increase after a non-green
+    technology shock. We find that green technology shocks are associated with a persistent reduction of the carbon
+    emission intensity of output but a substantial rebound of per capita emissions. The reason is that these shocks
+    lead to a delayed but pronounced increase of output which gives rise to substantial additional fossil fuel
+    consumption and new emissions. Green technology shocks are associated with a substitution of fossil fuel end-use
+    to electricity, much of which has historically been generated using fossil fuels.
+  links:
+    - { label: PDF, url: "https://github.com/EmanuelMoench/website/blob/Working-Papers/Moench_Soofi-Siavash(CEPR_DP19656_June2025).pdf" }
+
+- title: Mining Shocks, Blockchain Security, and the Value of Bitcoin
+  url: https://cepr.org/publications/dp20141
+  with: Soeren Karau
+  details: CEPR Discussion Paper No. 20141, April 2025
+  abstract: >-
+    We study the implications of Bitcoin's security model for its market valuation. We identify mining shocks by
+    exploiting exogenous variation in mining intensity using a narrative approach in a structural Vector
+    Autoregression. While their impact on transaction speed is short-lived, mining shocks persistently affect trading
+    volumes and market valuations, explaining up to 15 percent of Bitcoin's substantial price variation. Our findings
+    can be rationalized in a theoretical framework where mining shocks affect the likelihood to withstand potential
+    attacks and as such impact investor beliefs about the future state of the network and thus Bitcoin’s usefulness
+    as a means of payment.
+  links:
+    - { label: PDF, url: "https://github.com/EmanuelMoench/website/blob/Working-Papers/Karau_Moench(CEPR_DP20141_Apr2025).pdf" }
+
+- title: How Do We Learn About the Long Run?
+  url: https://www.newyorkfed.org/research/staff_reports/sr1150
+  with: Richard K. Crump, Stefano Eusepi and Bruce Preston
+  details: Federal Reserve Bank of New York Staff Reports No. 1150, April 2025
+  abstract: >-
+    Using a novel and unique panel dataset of individual-level professional forecasts at short, medium, and
+    very-long horizons, we provide new stylized facts about survey forecasts. We present direct evidence that
+    forecasters use multivariate models in an environment with imperfect information about the current state,
+    leading to heterogenous non-stationary expectations about the long run. We show forecast revisions are
+    consistent with the predictions of a multivariate unobserved trend and cycle model. Our results suggest models of
+    expectations formation which are either univariate, stationary, or both, are inherently misspecified and that
+    macroeconomic modelling should reconsider the conventional assumption that agents operate in a well-understood
+    stationary environment.
+  links:
+    - { label: PDF, url: "https://github.com/EmanuelMoench/website/blob/Working-Papers/Crump_Eusepi_Moench_Preston(NYFed_SR1150_Apr2025).pdf" }
+
+- title: Household beliefs about fiscal dominance
+  url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5097443
+  with: Philippe Andrade, Erwan Gautier, Eric Mengus, and Tobias Schmidt
+  details: March 2025
+  abstract: >-
+    We study beliefs about fiscal dominance in a survey of German households. We first use a randomized controlled
+    trial to identify how fiscal news impact individual debt-to-GDP and inflation expectations. We document that the
+    link between debt and inflation crucially depends on individuals’ views about the fiscal space. News leading
+    individuals to expect higher debt-to-GDP ratios make them more likely to revise upward their inflation
+    expectations. These average effects are due to individuals who think that fiscal resources are more stretched
+    than others. In contrast, individuals who think there is fiscal space do not associate debt with inflation. We
+    then rationalize these results in a New Keynesian model where agents have heterogeneous beliefs about the fiscal
+    space. We show that the heterogeneity of beliefs implies a policy tradeoff for the central bank. Agents who
+    expect fiscal dominance in the future exert upward pressure on inflation. An active central bank may choose to
+    partially tolerate this higher inflation due to the real costs of completely stabilizing prices.
+  links:
+    - { label: PDF, url: "https://github.com/EmanuelMoench/website/blob/Working-Papers/Andrade_Gauthier_Mengus_Moench_Schmidt(BdF_WP986_Mar2025).pdf" }
+
+- title: The Asymmetric and Persistent Effects of Fed Policy on Global Bond Yields
+  url: https://www.bis.org/publ/work1195.htm
+  with: Tobias Adrian, Gaston Gelos and Nora Lamersdorf
+  details: BIS Working Paper No. 1195, July 2024
+  abstract: >-
+    We document that U.S. monetary policy shocks have highly persistent but asymmetric effects on U.S. Treasury and
+    global bond yields, with a clear break around the Great Financial Crisis (GFC). Prior to the GFC, tightening
+    shocks used to lead to a pronounced hump-shaped increase of Treasury yields across maturities. Yields used to
+    respond little to easing shocks as term premiums would rise strongly, offsetting the associated decline of
+    expected policy rates. Since the GFC, term premiums have been declining persistently following both tightening
+    and easing shocks. As a result, post-GFC tightening shocks only have transitory positive effects on yields,
+    which reverse later. The response of advanced-economy and emerging market sovereign yields essentially mimics the
+    pattern observed for Treasury yields. Consistent with recent work by Kekre et al. (2022) we find that changes in
+    the duration of primary dealer Treasury portfolios pre- and post-GFC are highly informative about the sign of the
+    term premium response to policy shocks, but cannot explain the full picture. The observed puzzling persistence of
+    returns is likely to stem at least in part from slow and persistent mutual fund flows following monetary policy
+    surprises.
+  links:
+    - { label: PDF, url: "https://github.com/EmanuelMoench/website/blob/Working-Papers/Adrian_Gelos_Lamersdorf_Moench(BIS_WP1195_Jul2024).pdf" }
+
+- title: "Forceful or Persistent: How the ECB's New Inflation Target Affects Households' Inflation Expectations"
+  url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4630646
+  with: Mathias Hoffmann, Lora Pavlova, and Guido Schultefrankenfeld
+  details: Deutsche Bundesbank Discussion Paper No. 27/2023
+  abstract: >-
+    We study how households adjust their medium-term inflation expectations under the new ECB strategy. We find that
+    survey respondents make little difference between the previous strategy of targeting inflation rates close to
+    but below 2% and the new strategy with a symmetric 2% target. Yet, participants informed that the ECB might
+    tolerate rates exceeding the target for some time, expect somewhat higher medium-term inflation. Respondents
+    asked to assume inflation currently running below target place a significantly higher probability on outcomes
+    above 2% in the medium term. Participants do not expect an undershooting when inflation is currently running
+    above target.
+  links:
+    - { label: PDF, url: "https://github.com/EmanuelMoench/website/blob/Working-Papers/Hoffmann_Moench_Pavlova_Schultefrankenfeld(BuBa_DP_272023_Jul2023).pdf" }
+
+- title: Fundamental Disagreement about Monetary Policy and the Term Structure of Interest Rates
+  url: https://www.newyorkfed.org/research/staff_reports/sr934
+  with: Shuo Cao, Richard K. Crump and Stefano Eusepi
+  details: Federal Reserve Bank of New York Staff Reports No. 934, July 2021
+  abstract: >-
+    Using a unique data set of individual professional forecasts, we document disagreement about the future path of
+    monetary policy, particularly at longer horizons. The stark differences in short rate forecasts imply strong
+    disagreement about the risk-return trade-off of longer-term bonds. Longer-horizon short rate disagreement
+    co-moves with term premiums. We estimate an affine term structure model in which investors hold heterogeneous
+    beliefs about the long-run level of rates. Our model fits Treasury yields and the short rate paths predicted by
+    different groups of investors and thus matches the observed differences in expected return profiles. Investors
+    who correctly anticipated the secular decline in rates became increasingly important for the marginal pricing of
+    risk in the Treasury market. Accounting for heterogeneity in investment performance eliminates the downward trend
+    in the term premium.
+  links:
+    - { label: PDF, url: "https://github.com/EmanuelMoench/website/blob/Working-Papers/Cao_Crump_Eusepi_Moench(NYFed_SR934_Aug2021).pdf" }

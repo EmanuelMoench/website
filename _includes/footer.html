@@ -1,0 +1,26 @@
+{%- assign t = site.data.i18n[page.lang] -%}
+{%- assign urls = site.data.pages -%}
+<footer class="site-footer">
+  <div class="footer-grid">
+    <div>
+      <h4>{{ t.footer_contact }}</h4>
+      <p>{% for line in site.contact.address %}{{ line }}{% unless forloop.last %}<br>{% endunless %}{% endfor %}</p>
+      <p>
+        <a href="tel:{{ site.contact.phone_footer_link }}">{{ t.tel }}: {{ site.contact.phone_footer }}</a><br>
+        <a href="mailto:{{ site.contact.email }}">{{ t.mail }}: {{ site.contact.email }}</a>
+      </p>
+    </div>
+    <div>
+      <h4>{{ t.footer_links }}</h4>
+      <p>
+        <a href="{{ urls.imprint[page.lang] | relative_url }}">{{ t.imprint }}</a><br>
+        <a href="{{ urls.privacy[page.lang] | relative_url }}">{{ t.privacy }}</a>
+      </p>
+    </div>
+    <div>
+      <h4>{{ t.footer_map }}</h4>
+      <p><a href="{{ site.contact.map }}" target="_blank" rel="noopener">{{ t.footer_map_link }} ↗</a></p>
+    </div>
+  </div>
+  <p class="footer-copy">© {{ site.time | date: '%Y' }} {{ site.contact.name }}</p>
+</footer>

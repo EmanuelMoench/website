@@ -1,0 +1,35 @@
+# Addresses of every page in both languages.
+# The language flags in the header use this list to jump to the
+# same page in the other language. Each page's front matter has
+# a matching "ref:" value.
+
+about:
+  en: /
+  de: /german/uber-mich
+research:
+  en: /research
+  de: /german/forschung
+journal:
+  en: /journal-publications
+  de: /german/zeitschriftenveroffentlichungen
+working:
+  en: /working-papers
+  de: /german/arbeitspapiere
+otherpubs:
+  en: /other-publications
+  de: /german/weitere-publikationen
+other:
+  en: /other
+  de: /german/andere
+media:
+  en: /media
+  de: /german/medien
+contact:
+  en: /contact
+  de: /german/kontakt
+imprint:
+  en: /imprint
+  de: /german/impressum
+privacy:
+  en: /data-protection
+  de: /german/datenschutz

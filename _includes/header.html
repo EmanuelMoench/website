@@ -1,0 +1,52 @@
+{%- assign t = site.data.i18n[page.lang] -%}
+{%- assign urls = site.data.pages -%}
+{%- assign l = page.lang -%}
+{%- assign research_refs = "research,journal,working,otherpubs" | split: "," -%}
+<header class="site-header">
+  <div class="header-inner">
+    <a class="logo" href="{{ urls.about[l] | relative_url }}">
+      <img src="{{ '/assets/images/logo.webp' | relative_url }}" alt="Emanuel Mönch" width="480" height="368">
+    </a>
+
+    <button class="menu-toggle" type="button" aria-expanded="false" aria-controls="site-nav" aria-label="{{ t.menu }}">
+      <span></span><span></span><span></span>
+    </button>
+
+    <nav id="site-nav" class="site-nav" aria-label="{{ t.menu }}">
+      <ul class="nav-list">
+        <li><a class="nav-link{% if page.ref == 'about' %} is-active{% endif %}" href="{{ urls.about[l] | relative_url }}">{{ t.nav.about }}</a></li>
+        <li class="has-sub">
+          <a class="nav-link{% if research_refs contains page.ref %} is-active{% endif %}" href="{{ urls.research[l] | relative_url }}">{{ t.nav.research }}</a>
+          <button class="sub-toggle" type="button" aria-expanded="false" aria-label="{{ t.nav.research }}">
+            <svg viewBox="0 0 12 8" width="12" height="8" aria-hidden="true"><path d="M1 1.5l5 5 5-5" fill="none" stroke="currentColor" stroke-width="1.6"/></svg>
+          </button>
+          <ul class="sub-list">
+            <li><a class="nav-link{% if page.ref == 'journal' %} is-current{% endif %}" href="{{ urls.journal[l] | relative_url }}">{{ t.nav.journal }}</a></li>
+            <li><a class="nav-link{% if page.ref == 'working' %} is-current{% endif %}" href="{{ urls.working[l] | relative_url }}">{{ t.nav.working }}</a></li>
+            <li><a class="nav-link{% if page.ref == 'otherpubs' %} is-current{% endif %}" href="{{ urls.otherpubs[l] | relative_url }}">{{ t.nav.otherpubs }}</a></li>
+          </ul>
+        </li>
+        <li><a class="nav-link{% if page.ref == 'other' %} is-active{% endif %}" href="{{ urls.other[l] | relative_url }}">{{ t.nav.other }}</a></li>
+        <li><a class="nav-link{% if page.ref == 'media' %} is-active{% endif %}" href="{{ urls.media[l] | relative_url }}">{{ t.nav.media }}</a></li>
+        <li><a class="nav-link" href="{{ site.cfcb_nav }}" target="_blank" rel="noopener">{{ t.nav.cfcb }}</a></li>
+        <li><a class="nav-link{% if page.ref == 'contact' %} is-active{% endif %}" href="{{ urls.contact[l] | relative_url }}">{{ t.nav.contact }}</a></li>
+      </ul>
+
+      <div class="header-tools">
+        {%- assign ref = page.ref | default: 'about' -%}
+        <a class="flag{% if l == 'de' %} is-current{% endif %}" href="{{ urls[ref].de | relative_url }}" hreflang="de" lang="de" title="{{ t.switch_de }}" aria-label="{{ t.switch_de }}">
+          <svg viewBox="0 0 5 3" width="40" height="24" aria-hidden="true"><rect width="5" height="1" fill="#000"/><rect y="1" width="5" height="1" fill="#DD0000"/><rect y="2" width="5" height="1" fill="#FFCE00"/></svg>
+        </a>
+        <a class="flag{% if l == 'en' %} is-current{% endif %}" href="{{ urls[ref].en | relative_url }}" hreflang="en" lang="en" title="{{ t.switch_en }}" aria-label="{{ t.switch_en }}">
+          <svg viewBox="0 0 60 36" width="40" height="24" aria-hidden="true"><clipPath id="ukc"><rect width="60" height="36"/></clipPath><g clip-path="url(#ukc)"><rect width="60" height="36" fill="#012169"/><path d="M0 0l60 36M60 0L0 36" stroke="#fff" stroke-width="7"/><path d="M0 0l60 36M60 0L0 36" stroke="#C8102E" stroke-width="2.6"/><path d="M30 0v36M0 18h60" stroke="#fff" stroke-width="11"/><path d="M30 0v36M0 18h60" stroke="#C8102E" stroke-width="6.5"/></g></svg>
+        </a>
+        <a class="tool-icon" href="{{ site.profiles.scholar }}" target="_blank" rel="noopener" title="{{ t.scholar }}" aria-label="{{ t.scholar }}">
+          <svg viewBox="0 0 40 40" width="38" height="38" aria-hidden="true" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linejoin="round"><path d="M20 10c-4-3-10-3.5-15-2.5v23c5-1 11-.5 15 2.5 4-3 10-3.5 15-2.5v-23c-5-1-11-.5-15 2.5z"/><path d="M20 10v23"/><path d="M9 14h7M9 18h7M9 22h7M24 14h7M24 18h7M24 22h7"/></svg>
+        </a>
+        <a class="tool-icon" href="{{ site.profiles.linkedin }}" target="_blank" rel="noopener" title="{{ t.linkedin }}" aria-label="{{ t.linkedin }}">
+          <svg viewBox="0 0 40 40" width="38" height="38" aria-hidden="true" fill="none" stroke="currentColor" stroke-width="1.8"><rect x="4" y="4" width="32" height="32" rx="9"/><path d="M13 17v11M13 12.5v.5M18.5 28V17M18.5 21.5c0-3 2-4.5 4.3-4.5 2.6 0 4.2 1.6 4.2 4.8V28" stroke-linecap="round"/></svg>
+        </a>
+      </div>
+    </nav>
+  </div>
+</header>

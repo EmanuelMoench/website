@@ -1,0 +1,7 @@
+{%- assign t = site.data.i18n[page.lang] -%}
+{%- assign urls = site.data.pages -%}
+<ul class="research-tiles">
+  <li><a href="{{ urls.journal[page.lang] | relative_url }}"><span class="pub-icon pub-icon--doc" aria-hidden="true"></span><span>{{ t.nav.journal }}</span><small>{{ site.data.journal_publications | size }}</small></a></li>
+  <li><a href="{{ urls.working[page.lang] | relative_url }}"><span class="pub-icon pub-icon--draft" aria-hidden="true"></span><span>{{ t.nav.working }}</span><small>{{ site.data.working_papers | size }}</small></a></li>
+  <li><a href="{{ urls.otherpubs[page.lang] | relative_url }}"><span class="pub-icon pub-icon--note" aria-hidden="true"></span><span>{{ t.nav.otherpubs }}</span><small>{{ site.data.other_publications | size }}</small></a></li>
+</ul>

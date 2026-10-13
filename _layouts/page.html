@@ -1,0 +1,14 @@
+---
+layout: default
+---
+{% include hero.html %}
+<section class="section{% if page.tint %} section--tint{% endif %}{% if page.narrow %} section--narrow{% endif %}">
+  <div class="container">
+    {%- unless page.hide_title %}
+    <h2 class="section-title">{{ page.subheading | default: page.title }}</h2>
+    {%- endunless %}
+    <div class="prose">
+      {{ content }}
+    </div>
+  </div>
+</section>

@@ -1,0 +1,411 @@
+# OTHER PUBLICATIONS (policy briefs, columns, blog posts, ...)
+# ---------------------------------------------------------------
+# Same fields as journal_publications.yml. In addition:
+#   label: teaser     shows the button as "Teaser" instead of "Abstract"
+# ---------------------------------------------------------------
+
+- title: "Wait and Watch: Steering Monetary Policy Under Balanced Inflation Risks"
+  url: https://www.europarl.europa.eu/cmsdata/298533/FSFM_Bonn_Final%20MD%20October.pdf
+  with: Benjamin Born, Carl-Wolfram Horn, and Utso Pal Mustafi
+  details: Study Requested by the European Parliament’s ECON committee, Monetary Dialogue Papers, September 2025
+  label: teaser
+  abstract: >-
+    This paper summarises the euro-area economic outlook, assesses the ECB’s current monetary policy stance, and
+    reviews its policy communication. Inflation is near target and risks surrounding it are broadly balanced, with a
+    mild upside tilt. The ECB’s monetary stance is close to neutral: balance sheet normalisation partially offsets
+    easing from recent rate cuts. Communication has evolved in recent years, and the data-dependent,
+    meeting-by-meeting strategy remains appropriate. Clearer reaction-function guidance could help reduce
+    uncertainty about the inflation outlook. This document was provided by the Economic Governance and EMU Scrutiny
+    Unit at the request of the Committee on Economic and Monetary Affairs (ECON) ahead of the Monetary Dialogue with
+    the ECB President on 6 October 2025.
+  links:
+    - { label: PDF, url: "https://raw.githubusercontent.com/EmanuelMoench/website/Other-Publications/EP_MEP_FSFM_Bonn_2510.pdf" }
+
+- title: A KISS for central bank communication in times of high inflation
+  url: https://www.suerf.org/publications/suerf-policy-notes-and-briefs/a-kiss-for-central-bank-communication-in-times-of-high-inflation/
+  with: Mathias Hoffmann, Lora Pavlova, and Guido Schultefrankenfeld
+  details: "**SUERF Policy Brief** No. 1211, July 2025"
+  label: teaser
+  abstract: >-
+    Central banks have used communication about the inflation outlook as an additional policy tool in response to the
+    post-pandemic inflation surge. We present novel survey evidence that the ECB’s guidance about its projected
+    inflation path can substantially lower households’ inflation expectations when kept in a sophisticatedly simple
+    (KISS) way.
+  links:
+    - { label: PDF, url: "https://raw.githubusercontent.com/EmanuelMoench/website/Other-Publications/SUERF-Policy-Brief-1211_Hoffmann_et_al_July2025.pdf" }
+
+- title: A KISS for central bank communication in times of high inflation
+  url: https://publikationen.bundesbank.de/publikationen-en/research/research-brief/2025-75-central-bank-communication-inflation-922440
+  with: Mathias Hoffmann, Lora Pavlova, and Guido Schultefrankenfeld
+  details: "**Bundesbank Research Brief** No. 75, May 2025"
+  label: teaser
+  abstract: >-
+    Central banks have used communication about the inflation outlook as an additional policy tool in response to the
+    post-pandemic inflation surge. We present novel survey evidence that the ECB’s guidance about its projected
+    inflation path can substantially lower households’ inflation expectations when kept in a sophisticatedly simple
+    (KISS) way.
+  links:
+    - { label: PDF, url: "https://raw.githubusercontent.com/EmanuelMoench/website/Other-Publications/Bundesbank-Research-Brief-75-May2025.pdf" }
+
+- title: "Forceful or persistent: How the ECB’s New Inflation Target Affects Households’ Inflation Expectations"
+  url: https://www.suerf.org/publications/suerf-policy-notes-and-briefs/forceful-or-persistent-how-the-ecbs-new-inflation-target-affects-households-inflation-expectations/
+  with: Mathias Hoffmann, Lora Pavlova, and Guido Schultefrankenfeld
+  details: "**SUERF Policy Brief** No. 794, February 2024"
+  label: teaser
+  abstract: >-
+    The ECB announced a new monetary policy strategy in July 2021. In contrast to the previous strategy of aiming at
+    inflation close to, but below 2 %, it now pursues a symmetric 2% inflation target over the medium term. In
+    addition, the ECB explicitly indicated some tolerance for above-target inflation to avoid low inflation from
+    becoming entrenched. The main goal of this added clause was to lift private-sector inflation expectations in
+    times when policy is constrained by the effective lower bound of interest rates. In this brief, we assess whether
+    the new strategy had the intended effects. Using a representative survey of German individuals conducted just
+    after the introduction of the new strategy, we find that respondents make little difference between the previous
+    strategy of targeting inflation close to but below 2% and the new symmetric 2% inflation target. However, when
+    informed about the ECB’s increased tolerance for inflation overshooting, they expect substantially higher
+    inflation in the following years when current inflation is running below target.
+  links:
+    - { label: PDF, url: "https://raw.githubusercontent.com/EmanuelMoench/website/Other-Publications/SUERF-Policy-Brief-794_Hoffmann-et-al.pdf" }
+
+- title: "Words speak louder than numbers: Central bank communication in times of high inflation"
+  url: https://cepr.org/voxeu/columns/words-speak-louder-numbers-central-bank-communication-times-high-inflation
+  with: Mathias Hoffmann, Guido Schultefrankenfeld and Lora Pavlova
+  details: "**VoxEU Column**, August 2022"
+  label: teaser
+  abstract: >-
+    In 2022, consumer price inflation in the euro area has climbed to record highs. As a result, many households
+    have increased their inflation expectations, thus increasing the risks of more persistent inflation in the
+    future. Using the Bundesbank Online Panel Households as a laboratory, this column provides evidence that
+    individuals who are shown ECB communication on the inflation outlook significantly reduce their inflation
+    expectations. Furthermore, explaining the outlook verbally has a substantially larger effect than merely
+    providing numerical projections.
+
+- title: The effects of the ECB’s new inflation target on private households’ inflation expectations
+  url: https://www.bundesbank.de/en/publications/research/research-brief/2021-43-inflation-target-881212
+  with: Mathias Hoffmann, Guido Schultefrankenfeld and Lora Pavlova
+  details: "**Bundesbank Research Brief** No. 43, November 2021"
+  label: teaser
+  abstract: >-
+    Is there a difference between the inflation expectations of private households in Germany formed under the ECB’s
+    previous target definition of “below, but close to, 2%” and those under the new inflation target of
+    “symmetrically 2%”? New survey results from the Bundesbank Online Panel Households (BOP-HH) show that the new
+    inflation target is associated with moderately higher inflation expectations for the next two to three years.
+    The differences become more accentuated when the respondents are also told that the new monetary policy strategy
+    entails the possibility of inflation exceeding the target.
+  links:
+    - { label: PDF, url: "https://raw.githubusercontent.com/EmanuelMoench/website/Other-Publications/Bundesbank-Research-Brief-43-Nov2021.pdf" }
+
+- title: Climate Change and Monetary Policy in the Euro Area
+  url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3928292
+  with: many co-authors
+  details: ECB Occasional Paper No. 2021/271, September 2021
+  abstract: >-
+    This paper analyses the implications of climate change for the conduct of monetary policy in the euro area. It
+    first investigates macroeconomic and financial risks stemming from climate change and from policies aimed at
+    climate mitigation and adaptation, as well as the regulatory and fiscal effects of reducing carbon emissions. In
+    this context, it assesses the need to adapt macroeconomic models and the Eurosystem/ECB staff economic
+    projections underlying the monetary policy decisions. It further considers the implications of climate change for
+    the conduct of monetary policy, in particular the implications for the transmission of monetary policy, the
+    natural rate of interest and the correct identification of shocks. Model simulations using the ECB’s New
+    Area-Wide Model (NAWM) illustrate how the interactions of climate change, financial and fiscal fragilities could
+    significantly restrict the ability of monetary policy to respond to standard business cycle fluctuations. The
+    paper concludes with an analysis of a set of potential monetary policy measures to address climate risks,
+    insofar as they are in line with the ECB’s mandate.
+  links:
+    - { label: PDF, url: "https://raw.githubusercontent.com/EmanuelMoench/website/Other-Publications/ECB_OP271_Sep2021.pdf" }
+
+- title: "Clear, Consistent and Engaging: ECB Monetary Policy Communication in a Changing World"
+  url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3928296
+  with: many co-authors
+  details: ECB Occasional Paper No. 2021/274, September 2021
+  abstract: >-
+    This paper examines the importance of central bank communication in ensuring the effectiveness of monetary
+    policy and in underpinning the credibility, accountability, and legitimacy of independent central banks. It
+    documents how communication has become a monetary policy tool in itself; one example of this being forward
+    guidance, given its impact on inflation expectations, economic behaviour and inflation. The paper explains why
+    and how consistent, clear and effective communication to expert and non-expert audiences is essential in an
+    environment of an ever-increasing need by central banks to reach these audiences. Central banks must also meet
+    the demand for more understandable information about policies and tools, while at the same time overcoming the
+    challenge posed by the wider public’s rational inattention. Since the European Central Bank was established, the
+    communications landscape has changed dramatically and continues to evolve. This paper outlines how better
+    communication, including greater engagement with the wider public, could help boost people’s understanding of
+    and trust in the Eurosystem.
+  links:
+    - { label: PDF, url: "https://raw.githubusercontent.com/EmanuelMoench/website/Other-Publications/ECB_OP274_Sep2021.pdf" }
+
+- title: Market liquidity of European sovereign bonds during the Covid-19 crisis
+  url: https://safe-frankfurt.de/news-latest/safe-finance-blog/details/market-liquidity-of-european-sovereign-bonds-during-the-covid-19-crisis.html
+  with: Loriana Pelizzon and Michael T. Schneider
+  details: SAFE Finance Blog, June 2021
+  label: teaser
+  abstract: >-
+    The spread of Covid-19 has caused tremendous stress to public health around the globe. As the scale of the
+    pandemic became increasingly clear to investors in March 2020, financial markets were strongly affected – both in
+    terms of valuations and their functioning. Economists use the concept of market liquidity to capture the ease of
+    trading in financial markets. In this column, we study how market liquidity in European sovereign bonds evolved
+    at the start of the pandemic, and explore the main possible drivers of this evolution: “dash for cash” or “dash
+    for collateral”.
+
+- title: "‘Dash for cash’ versus ‘dash for collateral’: Market liquidity of European sovereign bonds during the Covid-19 crisis"
+  url: https://voxeu.org/article/market-liquidity-european-sovereign-bonds-during-covid-19-crisis
+  with: Loriana Pelizzon and Michael T. Schneider
+  details: "**VoxEU Column**, March 2021"
+  label: teaser
+  abstract: >-
+    In March 2020, a ‘dash for cash’ driven by the Covid-19 crisis affected the liquidity of the US Treasury bonds
+    market as well as numerous other financial markets around the globe. This column investigates how euro area
+    sovereign bond markets fared during the same period. While deteriorations in sovereign debt market liquidity are
+    evident, these appear to be driven by a ‘dash for collateral’ in euro-denominated safe assets. This suggests some
+    differences from the US experience, as well as variations across European countries.
+
+- title: How institutional investment funds’ reach for yield intensifies asset price volatility
+  url: https://voxeu.org/article/how-institutional-investment-funds-reach-yield-intensifies-asset-price-volatility
+  with: Alexandru Barbu and Christoph Fricke
+  details: "**VoxEU Column**, March 2021"
+  label: teaser
+  abstract: >-
+    Institutional funds manage the majority of the assets under management of all German investment funds. This
+    column documents that institutional funds act in a strongly procyclical manner, by actively investing in
+    higher-yielding, longer-duration and lower-rated assets as yield spreads compress. The authors show that this
+    intensifies asset price volatility and highlight reasons behind this procyclical investment behaviour.
+
+- title: How institutional investment funds’ reach for yield intensifies asset price volatility
+  url: https://www.bundesbank.de/en/publications/research/research-brief/2021-38-asset-price-volatility-856976
+  with: Alexandru Barbu and Christoph Fricke
+  details: "**Bundesbank Research Brief** No. 38, January 2021"
+  label: teaser
+  abstract: >-
+    Institutional funds manage the majority of the assets under management of all German investment funds. This
+    research brief documents that institutional funds act in a strongly procyclical manner: they actively invest in
+    higher-yielding, longer-duration and lower-rated assets as yield spreads compress. We show that this intensifies
+    asset price volatility and highlight reasons behind this procyclical investment behaviour.
+  links:
+    - { label: PDF, url: "https://raw.githubusercontent.com/EmanuelMoench/website/Other-Publications/Bundesbank-Research-Brief-38-Jan2021.pdf" }
+
+- title: "Inflation: Drivers and Dynamics 2020 CEBRA Annual Meeting Session Summary"
+  url: https://www.clevelandfed.org/~/media/content/newsroom%20and%20events/publications/economic%20commentary/2021/ec%20202103/ec202103.pdf
+  with: Edward S. Knotek II, Robert Rich, Raphael Schoenle, Michael Lamla, and Michael Weber
+  details: "**Federal Reserve Bank of Cleveland Economic Commentary** No. 2021-03, February 2021"
+  links:
+    - { label: PDF, url: "https://raw.githubusercontent.com/EmanuelMoench/website/Other-Publications/Cleveland_Fed_Economic_Commentary_Nov2021.pdf" }
+
+- title: "Discussion: What Type of Banking System is Needed to Accompany the Capital Markets Union?"
+  url: https://books.google.de/books?id=m_q-DwAAQBAJ
+  details: Capital Markets Union and Beyond, MIT Press, 2019
+  links:
+    - { label: PDF, url: "https://raw.githubusercontent.com/EmanuelMoench/website/Other-Publications/Discussion_Bini-Smaghi_Marcussen-Capital_Markets_Union_and_Beyond_2019.pdf" }
+
+- title: The Term Structures of Global Yields
+  url: https://www.bis.org/publ/bppdf/bispap102_keynote.pdf
+  details: >-
+    Keynote address at Bank of Korea – BIS Joint Conference on Asia-Pacific fixed income markets: evolving structure,
+    participation and pricing, April 2019
+  abstract: >-
+    Sovereign bond yields in more than 20 developed and emerging market economies are decomposed into expected short
+    rates and term premia using the Adrian, Crump and Moench (2013) approach. I document that (i) term premia account
+    for large fractions of global bond yield variation; (ii) the co-movement of sovereign bond yields is, to a large
+    extent, driven by the term premium components of sovereign yields, especially in recent years; (iii)
+    connectedness and tail dependence between international bond markets are primarily driven by the term premium
+    components of global yields; and (iv) global bond yields strongly respond to US target rate shocks, albeit with
+    considerable delay. This response is primarily driven by a reassessment of global policy rate expectations.
+  links:
+    - { label: PDF, url: "https://raw.githubusercontent.com/EmanuelMoench/website/Other-Publications/Moench_BIS_Keynote_Nov2018.pdf" }
+
+- title: "The Pre-FOMC Announcement Drift: More Recent Evidence"
+  url: https://libertystreeteconomics.newyorkfed.org/2018/11/the-pre-fomc-announcement-drift-more-recent-evidence.html
+  with: David Lucca
+  details: "**Federal Reserve Bank of New York Liberty Street Economics Blog**, November 2018"
+  label: teaser
+  abstract: >-
+    We had previously documented large excess returns on equities ahead of scheduled announcements of the Federal
+    Open Market Committee (FOMC)—the Federal Reserve’s monetary policy-making body—between 1994 and 2011. This post
+    updates our original analysis with more recent data. We find evidence of continued large excess returns during
+    FOMC meetings, but only for those featuring a press conference by the Chair of the FOMC.
+
+- title: The impact of Eurosystem bond purchases on the repo market
+  url: https://www.bundesbank.de/en/publications/research/research-brief/2018-21-bond-purchases-repo-market-761744
+  with: Stephan Jank
+  details: "**Bundesbank Research Brief** No. 21, September 2018"
+  label: teaser
+  abstract: >-
+    German sovereign bonds have become scarce on the European repo market over recent years. A new analysis
+    investigates the impact of the Eurosystem’s monetary policy asset purchase programme on the repo market, and
+    shows that central bank securities lending can help to counteract scarcity.
+  links:
+    - { label: PDF, url: "https://raw.githubusercontent.com/EmanuelMoench/website/Other-Publications/Bundesbank-Research-Brief-21-Sep2018.pdf" }
+
+- title: "Learning from disagreement: Evidence from forecasters"
+  url: https://cepr.org/voxeu/columns/learning-disagreement-evidence-forecasters
+  with: Philippe Andrade, Richard Crump, and Stefano Eusepi
+  details: "**VoxEU Column**, December 2014"
+  label: teaser
+  abstract: >-
+    Expectations are critical for macroeconomics and financial markets. But the expectation-formation process is not
+    well understood. This column discusses some empirical characteristics of forecast disagreement from professional
+    forecasters in the US, and discusses the ‘information frictions’ that underlie the heterogeneity of expectations.
+
+- title: "Data Insight: Which Growth Rate? It’s a Weighty Subject"
+  url: http://libertystreeteconomics.newyorkfed.org/2014/12/data-insight-which-growth-rate-its-a-weighty-subject.html
+  with: Richard Crump, Stefano Eusepi, and David Lucca
+  details: "**Federal Reserve Bank of New York Liberty Street Economics Blog**, December 2014"
+  label: teaser
+  abstract: >-
+    The growth rate in real gross domestic product (GDP) is a conventional indicator of the economy’s health. But the
+    two ways of measuring annual GDP growth can give very different answers. In 2013, GDP grew 2.2 percent on a
+    year-over-year basis, but at a faster 3.1 percent rate on a Q4-over-Q4 basis. So, which measure is more
+    meaningful? We show in this post that the Q4/Q4 metric is better since it only considers quarterly growth rates
+    during the current year, while the Year/Year measure depends on quarterly growth rates in both the current and
+    previous year and puts considerable weight on growth around the turn of the year.
+
+- title: Interest Rate Derivatives and Monetary Policy Expectations
+  url: http://libertystreeteconomics.newyorkfed.org/2014/12/interest-rate-derivatives-and-monetary-policy-expectations.html
+  with: Richard Crump, William O'Boyle, Matthew Raskin, Carlo Rosa, and Lisa Stowe
+  details: "**Federal Reserve Bank of New York Liberty Street Economics Blog**, December 2014"
+  label: teaser
+  abstract: >-
+    Market expectations of the path of future policy rates can have important implications for financial markets and
+    the economy. Because interest rate derivatives enable market participants to hedge against or speculate on
+    potential changes in various short-term U.S. interest rates, they are a rich and timely source of information on
+    market expectations. In this post, we describe how information about market expectations can be derived from
+    interest rate futures and forwards, focusing on three main instruments: federal funds futures, overnight index
+    swaps (OIS), and Eurodollar futures. We also discuss how options on interest rate futures can be used to gain
+    insight into the full distribution of rate expectations—information that cannot be gleaned from futures or
+    forwards alone. In a forthcoming companion post, we explore an alternative source of policy rate expectations
+    based on the two surveys conducted by the Trading Desk at the Federal Reserve Bank of New York.
+
+- title: Survey Measures of Expectations for the Policy Rate
+  url: http://libertystreeteconomics.newyorkfed.org/2014/12/survey-measures-of-expectations-for-the-policy-rate.html
+  with: Richard Crump, William O’Boyle, Matthew Raskin, Carlo Rosa, and Lisa Stowe
+  details: "**Federal Reserve Bank of New York Liberty Street Economics Blog**, December 2014"
+  label: teaser
+  abstract: >-
+    Market prices provide timely information on policy expectations. But as we emphasized in our previous post, they
+    can deviate from investors’ expectations of the most likely path because they embed risk premiums and represent
+    probability-weighted averages over different possible paths. In contrast, surveys explicitly ask respondents for
+    their views on the likely path of economic variables. In this post, we highlight two surveys conducted by the
+    Federal Reserve Bank of New York that provide information about expectations that can complement market-based
+    measures.
+
+- title: "Connecting the Dots: Disagreement in the Federal Open Market Committee"
+  url: http://libertystreeteconomics.newyorkfed.org/2014/09/connecting-the-dots-disagreement-in-the-federal-open-market-committee.html
+  with: Richard Crump, Troy Davig, and Stefano Eusepi
+  details: "**Federal Reserve Bank of New York Liberty Street Economics Blog**, September 2014"
+  label: teaser
+  abstract: >-
+    People disagree, and so do the members of the Federal Open Market Committee (FOMC). How much do they disagree?
+    Why do they disagree? We look at the FOMC’s projections of the federal funds rate (FFR) and other variables and
+    compare them with those in the New York Fed’s Survey of Primary Dealers (SPD). We show that the members of the
+    FOMC tend to disagree more than the primary dealers and offer some potential explanations.
+
+- title: "Treasury Term Premia: 1961-Present"
+  url: http://libertystreeteconomics.newyorkfed.org/2014/05/treasury-term-premia-1961-present.html
+  with: Tobias Adrian, Richard Crump, and Benjamin Mills
+  details: "**Federal Reserve Bank of New York Liberty Street Economics Blog**, May 2014"
+  label: teaser
+  abstract: >-
+    Treasury yields can be decomposed into two components: expectations of the future path of short-term Treasury
+    yields and the Treasury term premium. The term premium is the compensation that investors require for bearing
+    the risk that short-term Treasury yields do not evolve as they expected. Studying the term premium over a long
+    time period allows us to investigate what has historically driven changes in Treasury yields. In this blog post,
+    we estimate and analyze the Treasury term premium from 1961 to the present, and make these estimates available
+    for download [here](https://www.newyorkfed.org/research/data_indicators/term-premia-tabs#/interactive).
+
+- title: "Preparing for Takeoff? Professional Forecasters and the June 2013 FOMC Meeting"
+  url: http://libertystreeteconomics.newyorkfed.org/2013/09/preparing-for-takeoff-professional-forecasters-and-the-june-2013-fomc-meeting.html
+  with: Richard Crump and Stefano Eusepi
+  details: "**Federal Reserve Bank of New York Liberty Street Economics Blog**, September 2013"
+  label: teaser
+  abstract: >-
+    Following the June 18-19 Federal Open Market Committee (FOMC) meeting different measures of short-term interest
+    rates increased notably. In the chart below, we plot two such measures: the two-year Treasury yield and the
+    one-year overnight indexed swap (OIS) forward rate, one year in the future. The vertical line indicates the final
+    day of the June FOMC meeting. To what extent did this rise in rates following the June FOMC meeting reflect a
+    shift in the expected future path of the federal funds rate (FFR)? Market participants and policy makers often
+    directly read the expected path from financial market data such as the OIS contracts. In this post, we take an
+    alternative approach by looking at surveys of professional forecasters to assess how expectations changed.
+
+- title: Do Treasury Term Premia Rise around Monetary Tightenings?
+  url: http://libertystreeteconomics.newyorkfed.org/2013/04/do-treasury-term-premia-rise-around-monetary-tightenings-.html
+  with: Tobias Adrian and Richard Crump
+  details: "**Federal Reserve Bank of New York Liberty Street Economics Blog**, April 2013"
+  label: teaser
+  abstract: >-
+    Some commentators have expressed concern that Treasury yields might rise sharply once the Federal Open Market
+    Committee (FOMC) begins to raise the federal funds rate (FFR), worrying, in particular, about a sudden increase in
+    Treasury term premia. In this post, we analyze the dynamics of Treasury term premia over the last fifty years and
+    discuss their evolution around recent tightening cycles, paying special attention to the 1994 episode when bond
+    prices dropped sharply around the world. We find that term premia don’t typically rise when monetary policy
+    tightens. We also conclude, based on the behavior of term premia and survey evidence, that the sharp rise in
+    Treasury yields in 1994 was in large part due to an upward shift in the expected path of future short-term
+    interest rates.
+
+- title: "Making a Statement: How Did Professional Forecasters React to the August 2011 FOMC Statement?"
+  url: http://libertystreeteconomics.newyorkfed.org/2013/01/making-a-statement-how-did-professional-forecasters-react-to-the-august-2011-fomc-statement.html
+  with: Richard Crump and Stefano Eusepi
+  details: "**Federal Reserve Bank of New York Liberty Street Economics Blog**, January 2013"
+  label: teaser
+  abstract: >-
+    The Federal Open Market Committee (FOMC) statement released on August 9, 2011, was the first to incorporate
+    language on “forward guidance” with an explicit date tied to the Committee’s expected path of monetary policy. In
+    this post, we exploit the timing of surveys taken before and after this statement’s release to investigate how
+    professional forecasters changed their expectations of growth, inflation, and monetary policy. We find that the
+    average forecast of the federal funds rate shifts considerably and closely aligns with the new language in the
+    statement, while the average forecasts for growth and inflation change less. While there’s near unanimity among
+    forecasters about the future path of the federal funds rate after the August 2011 FOMC statement, forecasters
+    maintained differing views on the growth and inflation outlooks.
+
+- title: The Puzzling Pre-FOMC Announcement “Drift”
+  url: http://libertystreeteconomics.newyorkfed.org/2012/07/the-puzzling-pre-fomc-announcement-drift.html
+  with: David Lucca
+  details: "**Federal Reserve Bank of New York Liberty Street Economics Blog**, July 2012"
+  label: teaser
+  abstract: >-
+    For many years, economists have struggled to explain the “equity premium puzzle”—the fact that the average return
+    on stocks is larger than what would be expected to compensate for their riskiness. In this post, which draws on
+    our recent [New York Fed staff report](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=1923197), we deepen
+    the puzzle further. We show that since 1994, more than 80 percent of the equity premium on U.S. stocks has been
+    earned over the twenty-four hours preceding scheduled Federal Open Market Committee (FOMC) announcements (which
+    occur only eight times a year)—a phenomenon we call the pre-FOMC announcement “drift.”
+
+- title: "How Well Do Financial Markets Separate News from Noise? Evidence from an Internet Blooper"
+  url: http://libertystreeteconomics.newyorkfed.org/2011/10/how-well-do-financial-markets-separate-news-from-noise-evidence-from-an-internet-blooper.html
+  with: Carlos Carvalho and Nick Klagge
+  details: "**Federal Reserve Bank of New York Liberty Street Economics Blog**, October 2011"
+  label: teaser
+  abstract: >-
+    How efficiently do financial markets process news of unexpected events? This question becomes particularly
+    salient now, as multiple events across the globe drive market movements. Do these gyrations reflect responses to
+    fundamental news or to “noise”? In general, it is very difficult to discern how well markets process information,
+    because there is no objective way for observers to separate fundamental news from noise components when markets
+    react to a news report. In this post, however, we examine an unusual episode involving a false news report that
+    provides a unique look into this question. We find that even when noise can be clearly identified, markets may
+    take as long as a week to fully process the “signal,” or relevant information, component of news.
+
+- title: A Look at the Accuracy of Policy Expectations
+  url: http://libertystreeteconomics.newyorkfed.org/2011/08/a-look-at-the-accuracy-of-policy-expectations-1.html
+  with: Richard Crump and Stefano Eusepi
+  details: "**Federal Reserve Bank of New York Liberty Street Economics Blog**, August 2011"
+  label: teaser
+  abstract: >-
+    Since the 1980s, the primary policy tool of the Federal Reserve has been the federal funds rate. Because
+    expectations of the future path of the funds rate play a central role in the term structure of interest rates
+    and thus the monetary transmission mechanism, it is important to know how accurate these expectations are in
+    predicting the funds rate. In this post, we investigate this issue using a well-known survey of private sector
+    forecasters. We find that forecasts tend to over-predict the funds rate in easing cycles and under-predict it in
+    tightening cycles. In addition, while forecasts during tightening cycles have become more accurate over time,
+    forecast accuracy during easing cycles has not improved.
+
+- title: Why is the Market Share of Adjustable-Rate Mortgages so Low?
+  url: https://www.newyorkfed.org/research/current_issues/ci16-8.html
+  with: Diego Aragon and James Vickery
+  details: "*Current Issues in Economics and Finance*, December 2010"
+  abstract: >-
+    Over the past several years, U.S. homebuyers have increasingly favored fixed-rate mortgages over adjustable-rate
+    mortgages (ARMs). Indeed, ARMs have dropped to less than 10 percent of all residential mortgage originations, a
+    near-record low. One might speculate that the decline in the ARM share has been driven by “one-off” factors
+    relating to the financial crisis. However, a statistical analysis suggests that recent trends can largely be
+    explained by the same factors that have historically shaped mortgage choice—most notably, the term structure of
+    interest rates and its effects on the relative price of different types of mortgages. Supply-side factors, in
+    particular a rise in the share of mortgages eligible to be securitized by the housing government-sponsored
+    enterprises, also play a role in the low current ARM share.
+  links:
+    - { label: PDF, url: "https://raw.githubusercontent.com/EmanuelMoench/website/Other-Publications/Moench_Vickery_Aragon(CurrentIssues2010).pdf" }

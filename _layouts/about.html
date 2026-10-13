@@ -1,0 +1,55 @@
+---
+layout: default
+---
+{%- assign t = site.data.i18n[page.lang] -%}
+{%- assign urls = site.data.pages -%}
+{%- assign l = page.lang -%}
+{% include hero.html %}
+
+<section class="section section--tint about">
+  <div class="container about-grid">
+    <div class="about-text">
+      <h2 class="section-title">{{ page.title }}</h2>
+      <div class="prose">
+        {{ content }}
+      </div>
+      <a class="button" href="{{ site.cv }}" target="_blank" rel="noopener">{{ page.cv_label }}</a>
+    </div>
+    <figure class="about-photo">
+      <img src="{{ '/assets/images/portraits/portrait-09-sm.jpg' | relative_url }}" alt="Emanuel Mönch" width="900" height="653" loading="lazy">
+    </figure>
+  </div>
+  <span class="ring" aria-hidden="true"></span>
+</section>
+
+<section class="section quick">
+  <div class="container">
+    <h2 class="section-title">{{ page.quick_title }}</h2>
+    <ul class="quick-grid">
+      <li>
+        <a class="quick-tile" href="{{ urls.research[l] | relative_url }}">
+          <span class="quick-circle"><svg viewBox="0 0 48 48" aria-hidden="true"><circle cx="21" cy="21" r="12"/><path d="M30 30l10 10"/></svg></span>
+          <span class="quick-label">{{ t.nav.research }}</span>
+        </a>
+      </li>
+      <li>
+        <a class="quick-tile" href="{{ urls.media[l] | relative_url }}">
+          <span class="quick-circle"><svg viewBox="0 0 48 48" aria-hidden="true"><rect x="6" y="9" width="36" height="24" rx="3"/><path d="M16 39h16M24 33v6M20 16l9 5-9 5z"/></svg></span>
+          <span class="quick-label">{{ t.nav.media }}</span>
+        </a>
+      </li>
+      <li>
+        <a class="quick-tile" href="{{ site.cfcb_en }}" target="_blank" rel="noopener">
+          <span class="quick-circle"><svg viewBox="0 0 48 48" aria-hidden="true"><path d="M6 18L24 8l18 10M9 18h30M11 22v13M19 22v13M29 22v13M37 22v13M7 39h34"/></svg></span>
+          <span class="quick-label">CfCB</span>
+        </a>
+      </li>
+      <li>
+        <a class="quick-tile" href="{{ urls.other[l] | relative_url }}">
+          <span class="quick-circle"><svg viewBox="0 0 48 48" aria-hidden="true"><path d="M10 14h28M10 24h28M10 34h28"/></svg></span>
+          <span class="quick-label">{{ t.nav.other }}</span>
+        </a>
+      </li>
+    </ul>
+  </div>
+</section>

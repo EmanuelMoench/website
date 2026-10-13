@@ -1,0 +1,71 @@
+# Words and labels used across the site, in English and German.
+
+en:
+  nav:
+    about: About me
+    research: Research
+    journal: Journal Publications
+    working: Working Papers
+    otherpubs: Other Publications
+    other: Other
+    media: Media
+    cfcb: CfCB
+    contact: Contact
+  menu: Menu
+  switch_de: Deutsche Version
+  switch_en: English version
+  scholar: Google Scholar
+  linkedin: LinkedIn
+  with: with
+  abstract: Abstract
+  teaser: Teaser
+  cite: Cite
+  copy: Copy
+  copied: Copied
+  close: Close
+  tagline: Monetary Policy, Financial Markets, and the Macroeconomy.
+  tagline_sub: Research and Advice
+  footer_contact: Address & Contact
+  footer_links: Links
+  footer_map: Map
+  footer_map_link: Open in Google Maps
+  tel: Tel
+  mail: Mail
+  imprint: Imprint
+  privacy: Data protection
+  months: [January, February, March, April, May, June, July, August, September, October, November, December]
+
+de:
+  nav:
+    about: Über mich
+    research: Forschung
+    journal: Zeitschriftenveröffentlichungen
+    working: Arbeitspapiere
+    otherpubs: Weitere Publikationen
+    other: Andere
+    media: Medien
+    cfcb: CfCB
+    contact: Kontakt
+  menu: Menü
+  switch_de: Deutsche Version
+  switch_en: English version
+  scholar: Google Scholar
+  linkedin: LinkedIn
+  with: mit
+  abstract: Abstract
+  teaser: Teaser
+  cite: Zitieren
+  copy: Kopieren
+  copied: Kopiert
+  close: Schließen
+  tagline: Geldpolitik, Finanzmärkte und Makroökonomie.
+  tagline_sub: Forschung und Beratung
+  footer_contact: Adresse & Kontakt
+  footer_links: Links
+  footer_map: Karte
+  footer_map_link: In Google Maps öffnen
+  tel: Tel
+  mail: E-Mail
+  imprint: Impressum
+  privacy: Datenschutz
+  months: [Januar, Februar, März, April, Mai, Juni, Juli, August, September, Oktober, November, Dezember]

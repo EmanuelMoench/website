@@ -1,0 +1,12 @@
+{%- assign l = page.lang -%}
+<p class="lead-in"><strong>{% if l == 'de' %}Ich bin{% else %}I am{% endif %}</strong></p>
+<ul class="roles">
+{%- for a in site.data.affiliations %}
+  <li>{{ a[l] }} <a href="{{ a.url }}" target="_blank" rel="noopener">{{ a.name }}</a>{% if a.after %} {{ a.after[l] }}{% endif %}</li>
+{%- endfor %}
+</ul>
+<ul class="logo-row">
+{%- for a in site.data.affiliations %}{% if a.logo %}
+  <li><a href="{{ a.url }}" target="_blank" rel="noopener"><img src="{{ '/assets/images/logos/' | append: a.logo | relative_url }}" alt="{{ a.name }}" loading="lazy"></a></li>
+{%- endif %}{% endfor %}
+</ul>

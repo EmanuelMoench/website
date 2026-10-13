@@ -1,0 +1,172 @@
+# MEDIA APPEARANCES — newest first
+# ---------------------------------------------------------------
+#   outlet  name of the newspaper, TV show, podcast, ...
+#   date    year-month, e.g. 2025-11
+#   title   headline (optional)
+#   url     link to the article / video
+#   image   screenshot in assets/images/media/ (optional)
+# ---------------------------------------------------------------
+
+- outlet: Bloomberg
+  date: 2025-11
+  title: ECB officials look beyond inflation to bigger threats for Europe
+  url: https://www.bloomberg.com/news/articles/2025-11-28/ecb-officials-look-beyond-inflation-to-bigger-threats-for-europe
+  image: bloomberg-2511.jpg
+
+- outlet: ARD 50k
+  date: 2025-11
+  url: https://www.youtube.com/watch?v=6b3ls7chhyU
+  image: ard50k-2511.jpg
+
+- outlet: Amundi Events
+  date: 2025-11
+  url: https://www.youtube.com/watch?v=IKW515HugZ4
+  image: amundi-2511.jpg
+
+- outlet: HR Info
+  date: 2025-10
+  url: https://www.ardaudiothek.de/episode/urn:ard:episode:5819cd1c3a8ef59a/
+  image: hrinfo-2510.jpg
+
+- outlet: ARD Plusminus
+  date: 2025-10
+  url: https://www.ardmediathek.de/video/plusminus/plusminus-vom-1-oktober-2025/das-erste/Y3JpZDovL2Rhc2Vyc3RlLmRlL3BsdXNtaW51cy8yMDI1LTEwLTAxXzIxLTQ1LU1FU1o
+  image: plusminus-2510.jpg
+
+- outlet: Handelsblatt
+  date: 2025-10
+  title: Stablecoins drängen in den US-Staatsanleihemarkt
+  url: https://www.handelsblatt.com/finanzen/maerkte/kryptohandel-stablecoins-draengen-in-den-us-staatsanleihemarkt/100160251.html
+  image: handelsblatt-2510.jpg
+
+- outlet: Börsen-Zeitung
+  date: 2025-09
+  title: Für eine Zinssenkung der EZB müsste schon einiges passieren
+  url: https://www.boersen-zeitung.de/konjunktur-politik/fuer-eine-zinssenkung-der-ezb-muesste-schon-einiges-passieren
+  image: boersenzeitung-2509.jpg
+
+- outlet: Reuters
+  date: 2025-05
+  title: How much higher can the US term premium go? A lot
+  url: https://www.reuters.com/markets/us/how-much-higher-can-us-term-premium-go-lot-mcgeever-2025-05-21/
+  image: reuters-2505.jpg
+
+- outlet: ARD ZDF Morgenmagazin
+  date: 2025-04
+  title: ZDF-Morgenmagazin
+  url: https://www.zdf.de/video/magazine/zdf-morgenmagazin-104/zdf-morgenmagazin-vom-17-april-2025-100
+  image: moma-2504.jpg
+
+- outlet: ZDFheute
+  date: 2025-04
+  title: Europas Aktienmärkte - der neue Zukunftsmarkt?
+  url: https://www.zdfheute.de/wirtschaft/aktien-aktienmaerkte-europa-geldanlagen-boerse-100.html
+  image: zdfheute-2504.jpg
+
+- outlet: usnews.com
+  date: 2025-04
+  title: "Analysis: How Trump's Policy Risk Is Showing in Treasury Bonds"
+  url: https://money.usnews.com/investing/news/articles/2025-04-08/analysis-how-trumps-policy-risk-is-showing-in-treasury-bonds
+  image: usnews-2504.jpg
+
+- outlet: ZDF WISO
+  date: 2025-03
+  title: ZDF WISO
+  url: https://www.zdf.de/play/magazine/wiso-104/wiso-vom-31-maerz-2025-100?staffel=2025
+  image: wiso-2503.jpg
+
+- outlet: SAT.1 RP/HE 17:30 Live
+  date: 2024-11
+  title: Was bedeutet der Wahlsieg von Donald Trump für die Wirtschaft in Hessen und Rheinland-Pfalz?
+  url: https://www.1730live.de/2024/11/06/was-bedeutet-der-wahlsieg-von-donald-trump-fuer-die-wirtschaft-in-hessen-und-rheinland-pfalz/
+  image: sat1-2411.jpg
+
+- outlet: Börsen-Zeitung
+  date: 2024-06
+  title: Die EZB sollte ein eindeutiges Mandat behalten
+  url: https://www.boersen-zeitung.de/konjunktur-politik/die-ezb-sollte-ein-eindeutiges-mandat-behalten
+  image: boersenzeitung-2406.jpg
+
+- outlet: Fidelity Podcast Kapitalmarkt
+  date: 2024-05
+  title: "Börsenboom trotz Wirtschaftsflaute: Die Macht der Währungshüter - Teil 1"
+  url: https://open.spotify.com/episode/758ucOwf37TA9gqJRYNmvx
+  image: fidelity-2405.jpg
+
+- outlet: n-tv
+  date: 2024-02
+  title: Schwache Wirtschaft - starke Börsen
+  url: https://www.n-tv.de/mediathek/sendungen/Fonds/Schwache-Wirtschaft-starke-Boersen-article24773439.html
+  image: ntv-2402.jpg
+
+- outlet: Tagesschau.de
+  date: 2024-02
+  title: Flaute in der Wirtschaft, Euphorie an der Börse
+  url: https://www.tagesschau.de/wirtschaft/finanzen/dax-rekordhoch-boerse-konjunktur-100.html
+  image: tagesschau-2402.jpg
+
+- outlet: Mail Online
+  date: 2023-10
+  title: "In the Market: US bond market signals the end of an era"
+  url: https://www.dailymail.co.uk/wires/reuters/article-12582969/In-Market-US-bond-market-signals-end-era.html
+  image: dailymail-2310.jpg
+
+- outlet: Tagesschau.de
+  date: 2022-09
+  title: Was der Zinsschritt im Alltag bedeutet
+  url: https://www.tagesschau.de/wirtschaft/finanzen/ezb-zentralbank-geldpolitik-zinsen-inflation-101.html
+  image: tagesschau-2209.jpg
+
+- outlet: Tagesschau.de
+  date: 2022-07
+  title: Warum die Zinserhöhung nur ein Anfang ist
+  url: https://www.tagesschau.de/wirtschaft/finanzen/zinswende-ezb-anleihekaufprogramm-101.html
+  image: tagesschau-2207.jpg
+
+- outlet: A Sustainable Future Podcast
+  date: 2021-11
+  title: Emanuel Moench, Deutsche Bundesbank, on Central Banks and the Climate Crisis
+  url: https://open.spotify.com/episode/04RYDQpgo4apJ6wU8Nflg8
+  image: mangroup-2111.jpg
+
+- outlet: Bloomberg
+  date: 2019-11
+  title: This Red Alert Is Now Flashing on the Bond Trader's Radar Screen
+  url: https://www.bloomberg.com/news/articles/2019-11-09/this-red-alert-is-now-flashing-bright-on-the-bond-trader-s-radar
+  image: bloomberg-1911.jpg
+
+- outlet: Financial Times
+  date: 2018-11
+  title: Front running Fed-Day's Eve
+  url: https://www.ft.com/content/2313f224-4656-39bb-be44-0100a5bc6988
+  image: ft-1811.jpg
+
+- outlet: Forbes
+  date: 2018-06
+  title: How The S&P 500 Lost Its Fed Bump
+  url: https://www.forbes.com/sites/simonmoore/2018/06/12/how-the-sp-500-lost-its-fed-bump/
+  image: forbes-1806.jpg
+
+- outlet: Bloomberg
+  date: 2018-02
+  title: Does a Flattening Yield Curve Mean Recession?
+  url: https://www.bloomberg.com/news/articles/2018-02-06/does-a-flattening-yield-curve-mean-recession
+  image: bloomberg-1802.jpg
+
+- outlet: Bloomberg
+  date: 2017-10
+  title: How Rising Rates and US Debt Brought Back Term Premiums
+  url: https://www.bloomberg.com/news/articles/2017-10-30/what-s-a-term-premium-and-where-did-mine-go-quicktake-q-a
+  image: bloomberg-1710.jpg
+
+- outlet: Wall Street Journal
+  date: 2012-07
+  title: Think the Fed Doesn't Sway Stock Prices? Check This Study
+  url: https://www.wsj.com/articles/BL-MB-43042
+  image: wsj-1207.jpg
+
+- outlet: Bloomberg
+  date: 2012-07
+  title: "Fed Policy Meetings Best Time for Stock Gains: Chart of the Day"
+  url: https://www.bloomberg.com/news/articles/2012-07-12/fed-policy-meetings-best-time-for-stock-gains-chart-of-the-day
+  image: bloomberg-1207.jpg

@@ -1,0 +1,45 @@
+# ADVISORY ROLES AND AFFILIATIONS (page "Other" / "Andere")
+# ---------------------------------------------------------------
+#   en / de   the line before the linked name, in each language
+#   name      the linked organisation name
+#   url       link
+#   after     optional text after the name (en / de)
+#   logo      file in assets/images/logos/ (optional)
+# ---------------------------------------------------------------
+
+- en: Visiting Professor at the
+  de: Gastprofessor am
+  name: Centre for Economic Transition Expertise (CETEx)
+  url: https://cetex.org/
+  after: { en: "at the LSE", de: "der LSE" }
+  logo: cetex.png
+
+- en: Member of the Scientific Advisory Board of the
+  de: Mitglied des wissenschaftlichen Beirats des
+  name: IWH
+  url: https://www.iwh-halle.de/en
+  logo: iwh.png
+
+- en: Member of the Research Advisory Council at
+  de: Mitglied des Research Advisory Council bei
+  name: SAFE
+  url: https://safe-frankfurt.de/en/
+  logo: safe.png
+
+- en: Research Fellow at the
+  de: Research Fellow am
+  name: Centre for Economic Policy Research (CEPR)
+  url: https://cepr.org/
+  logo: cepr.png
+
+- en: Research Professor (academic consultant) at
+  de: Forschungsprofessor (wissenschaftlicher Berater) bei der
+  name: Deutsche Bundesbank
+  url: https://www.bundesbank.de/de
+  logo: bundesbank.png
+
+- en: Regular Research Visitor at the
+  de: Regelmäßiger Forschungsgast bei der
+  name: European Central Bank
+  url: https://www.ecb.europa.eu/home/html/index.en.html
+  logo: ecb.png
