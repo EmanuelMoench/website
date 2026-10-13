@@ -9,14 +9,9 @@
 
 - outlet: Bloomberg
   date: 2026-07
-  title: Global Inflation Angst Is Back With $100 Oil and More Tariffs
+  title: Global Inflation Angst Is Back on $100 Oil and More Tariffs
   url: https://www.bloomberg.com/news/articles/2026-07-24/global-inflation-angst-is-back-with-100-oil-and-more-tariffs
-
-- outlet: Bloomberg
-  date: 2026-05
-  title: $50 Trillion Safe-Haven Debt Market Upended by Iran War Inflation
-  url: https://www.bloomberg.com/news/features/2026-05-21/iran-war-upends-inflation-bets-in-50-trillion-debt-market-safe-haven
-  image: bloomberg-2605.jpg
+  image: bloomberg-2607.jpg
 
 - outlet: Bloomberg
   date: 2025-11
