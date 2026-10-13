@@ -38,7 +38,7 @@ cv: "/files/CV_Emanuel_Moench.pdf"
 # cloud.umami.is between the quotes to switch statistics on; leave it
 # empty to switch them off.
 analytics:
-  umami_website_id: ""
+  umami_website_id: "1faf2ef1-b83e-4381-ad95-51d75d0f1698"
   umami_script: "https://cloud.umami.is/script.js"
 
 # Centre for Central Banking links
