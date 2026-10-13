@@ -214,10 +214,16 @@
   url: https://www.sciencedirect.com/science/article/abs/pii/S030439322200023X
   with: Mathias Hoffmann, Lora Pavlova and Guido Schultefrankenfeld
   details: "*Journal of Monetary Economics*, Vol. 129(S), July 2022"
-  # The old site showed the abstract of "What moves Treasury Yields?" here by mistake.
-  # Paste the correct abstract below (and remove the # in front of "abstract:").
-  # abstract: >-
-  #   ...
+  abstract: >-
+    Yes, they would. In a randomized control trial, we provide groups of respondents from the Bundesbank Online
+    Panel Households with information about a hypothetical alternative ECB monetary policy regime akin to the
+    Federal Reserve’s flexible average inflation targeting (AIT). Inflation expectations significantly increase for
+    the treated individuals. When we provide additional information about near-term inflation, for low levels of
+    trust in the ECB the adjustment of inflation expectations tends to be negative while it is positive for
+    intermediate and higher levels of trust. We assess the economic significance of our findings by comparing two
+    model economies under different monetary policy strategies, calibrated to match the difference in medium-term
+    inflation expectations from our survey results. Under AIT, inflation is substantially less volatile and the
+    frequency of hitting the lower bound on interest rates is considerably reduced.
   bibtex: |-
     @article{Hoffmann_Moench_Pavlova_Schultefrankenfeld_JME2022,
       title={Would households understand average inflation targeting?},
