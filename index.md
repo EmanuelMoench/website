@@ -9,7 +9,7 @@ quick_title: Quick Links
 description: I am Professor of Financial and Monetary Economics at Frankfurt School of Finance & Management.
 ---
 
-I am Professor of Financial and Monetary Economics at [Frankfurt School of Finance & Management ↗](https://www.frankfurt-school.de/home){:target="_blank" rel="noopener"}. Prior to joining Frankfurt School in 2021, I was Head of Research at the Deutsche Bundesbank and Professor of Economics at Goethe University Frankfurt. I began my career at the Federal Reserve Bank of New York, where I held several positions between 2007 and 2015.
+I am Professor of Financial and Monetary Economics at [Frankfurt School of Finance & Management ↗](https://www.frankfurt-school.de/en/home){:target="_blank" rel="noopener"}. Prior to joining Frankfurt School in 2021, I was Head of Research at the Deutsche Bundesbank and Professor of Economics at Goethe University Frankfurt. I began my career at the Federal Reserve Bank of New York, where I held several positions between 2007 and 2015.
 
 My research mainly focuses on the intersection of macroeconomics and finance and has been published in the Journal of Finance, the Journal of Financial Economics, the Review of Financial Studies, the Journal of Monetary Economics and many others. My research was recognised with the Journal of Finance’s Amundi Smith Breeden First Prize in 2015 and the European Economic Association's Young Economist Award in 2008.
 

@@ -10,7 +10,7 @@ quick_title: Direktlinks
 description: Ich bin Professor für Geldpolitik und Finanzmärkte an der Frankfurt School of Finance & Management.
 ---
 
-Ich bin Professor für Geldpolitik und Finanzmärkte an der [Frankfurt School of Finance & Management ↗](https://www.frankfurt-school.de/home){:target="_blank" rel="noopener"}. Bevor ich 2021 zur Frankfurt School kam, leitete ich das Forschungszentrum der Deutschen Bundesbank und war Professor für Volkswirtschaftslehre an der Goethe-Universität Frankfurt. Ich begann meine Laufbahn bei der Federal Reserve Bank of New York, wo ich von 2007 bis 2015 verschiedene Positionen innehatte.
+Ich bin Professor für Geldpolitik und Finanzmärkte an der [Frankfurt School of Finance & Management ↗](https://www.frankfurt-school.de/de/home){:target="_blank" rel="noopener"}. Bevor ich 2021 zur Frankfurt School kam, leitete ich das Forschungszentrum der Deutschen Bundesbank und war Professor für Volkswirtschaftslehre an der Goethe-Universität Frankfurt. Ich begann meine Laufbahn bei der Federal Reserve Bank of New York, wo ich von 2007 bis 2015 verschiedene Positionen innehatte.
 
 Meine Forschung konzentriert sich hauptsächlich auf die Schnittstelle zwischen Makroökonomie und Finanzmärkten und wurde unter anderem im Journal of Finance, dem Journal of Financial Economics, der Review of Financial Studies und dem Journal of Monetary Economics veröffentlicht. 2015 wurde ich mit dem Amundi Smith Breeden First Prize des Journal of Finance und 2008 mit dem Young Economist Award der European Economic Association ausgezeichnet.
 
