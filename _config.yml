@@ -8,7 +8,6 @@ description: Professor of Financial and Monetary Economics at Frankfurt School o
 url: "https://www.emanuelmoench.com"
 
 # Set to true to keep search engines away (e.g. for a test version of the site).
-
 noindex: false
 baseurl: ""
 

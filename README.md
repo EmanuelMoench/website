@@ -92,6 +92,8 @@ Cut its entry from `_data/working_papers.yml`, paste it at the top of `_data/jou
 
 ## One-time setup: switching the domain to GitHub Pages
 
+*Done on 14 October 2026 – www.emanuelmoench.com is served from this repository. The steps are kept for reference. The previous DNS settings are saved in Dropbox (`CV/Website/Claude/Log files/ROLLBACK_DNS_old-website_2026-10-14.md`).*
+
 1. **Publish the site from this repo.** GitHub → this repo → **Settings → Pages** → *Build and deployment*:
    Source **Deploy from a branch**, Branch **main**, folder **/ (root)** → Save.
    (This repo also has an old `gh-pages` branch; make sure **main** is selected.)
