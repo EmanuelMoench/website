@@ -7,9 +7,9 @@ title: Emanuel Mönch
 description: Professor of Financial and Monetary Economics at Frankfurt School of Finance & Management.
 url: "https://www.emanuelmoench.com"
 
-# Test mode: keeps search engines away while the site runs at test.emanuelmoench.com.
-# Set to false when switching to www.emanuelmoench.com.
-noindex: true
+# Set to true to keep search engines away (e.g. for a test version of the site).
+
+noindex: false
 baseurl: ""
 
 # Contact details (used in the footer and on the contact pages)
