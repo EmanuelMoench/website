@@ -1,4 +1,5 @@
 ---
+description: "Impressum der Website von Prof. Dr. Emanuel Mönch."
 ref: imprint
 permalink: /german/impressum
 title: Impressum

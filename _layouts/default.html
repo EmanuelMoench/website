@@ -27,6 +27,36 @@
   <link rel="preload" href="{{ '/assets/fonts/montserrat-latin-400-normal.woff2' | relative_url }}" as="font" type="font/woff2" crossorigin>
   <link rel="preload" href="{{ '/assets/fonts/archivo-narrow-latin-700-normal.woff2' | relative_url }}" as="font" type="font/woff2" crossorigin>
   <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
+  {%- if page.ref == 'about' and page.layout == 'about' %}
+  {%- assign job = 'Professor of Financial and Monetary Economics' -%}
+  {%- if page.lang == 'de' %}{% assign job = 'Professor für Geldpolitik und Finanzmärkte' %}{% endif %}
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "Person",
+    "name": {{ site.contact.name | jsonify }},
+    "alternateName": "Emanuel Moench",
+    "honorificPrefix": "Prof. Dr.",
+    "jobTitle": {{ job | jsonify }},
+    "url": {{ site.url | append: '/' | jsonify }},
+    "image": {{ '/assets/images/portraits/portrait-09.jpg' | absolute_url | jsonify }},
+    "email": {{ site.contact.email | prepend: 'mailto:' | jsonify }},
+    "telephone": {{ site.contact.phone_office | jsonify }},
+    "worksFor": {
+      "@type": "CollegeOrUniversity",
+      "name": "Frankfurt School of Finance & Management",
+      "url": "https://www.frankfurt-school.de",
+      "address": {"@type": "PostalAddress", "streetAddress": "Adickesallee 32-34", "postalCode": "60322", "addressLocality": "Frankfurt am Main", "addressCountry": "DE"}
+    },
+    "alumniOf": [
+      {"@type": "CollegeOrUniversity", "name": "Humboldt-Universität zu Berlin"},
+      {"@type": "CollegeOrUniversity", "name": "ENSAE Paris"}
+    ],
+    "knowsAbout": ["Monetary policy", "Financial markets", "Macroeconomics", "Asset pricing", "Term structure of interest rates", "Econometrics"],
+    "sameAs": {{ site.same_as | jsonify }}
+  }
+  </script>
+  {%- endif %}
   {%- if site.analytics.umami_website_id != "" %}
   <script defer src="{{ site.analytics.umami_script }}" data-website-id="{{ site.analytics.umami_website_id }}" data-domains="www.emanuelmoench.com,emanuelmoench.com,test.emanuelmoench.com"></script>
   {%- endif %}

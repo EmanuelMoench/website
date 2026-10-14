@@ -1,4 +1,5 @@
 ---
+description: "Privacy statement of the website of Prof. Dr. Emanuel Mönch: no cookies, cookie-free statistics, hosting on GitHub Pages."
 ref: privacy
 permalink: /data-protection
 title: Data protection

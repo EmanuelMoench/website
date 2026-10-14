@@ -1,4 +1,5 @@
 ---
+description: "Datenschutzerklärung der Website von Prof. Dr. Emanuel Mönch: keine Cookies, cookiefreie Statistik, Hosting bei GitHub Pages."
 ref: privacy
 permalink: /german/datenschutz
 title: Datenschutzerklärung

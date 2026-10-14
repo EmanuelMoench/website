@@ -1,4 +1,5 @@
 ---
+description: "Imprint (legal notice) of the website of Prof. Dr. Emanuel Mönch."
 ref: imprint
 permalink: /imprint
 title: Imprint

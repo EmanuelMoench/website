@@ -41,6 +41,15 @@ analytics:
   umami_website_id: "1faf2ef1-b83e-4381-ad95-51d75d0f1698"
   umami_script: "https://cloud.umami.is/script.js"
 
+# Profiles that belong to you (used for Google's "Person" information on the About page)
+same_as:
+  - https://scholar.google.com/citations?user=8Cuk5vYAAAAJ
+  - https://www.linkedin.com/in/emanuelmoench/
+  - https://www.frankfurt-school.de/en/research-and-faculty/faculty/faculty-directory/emanuel-moench
+  - https://cepr.org/about/people/emanuel-moench
+  - https://ideas.repec.org/f/pmo414.html
+  - https://cetex.org/team/emanuel-moench/
+
 # Centre for Central Banking links
 cfcb_nav: "https://fs.de/cfcb"
 cfcb_en: "https://fs.de/cfcb"
@@ -48,6 +57,8 @@ cfcb_en: "https://fs.de/cfcb"
 # ---------------------------------------------------------------
 #  Technical settings — normally no need to change anything below
 # ---------------------------------------------------------------
+plugins:
+  - jekyll-sitemap          # creates /sitemap.xml and /robots.txt automatically
 markdown: kramdown
 kramdown:
   input: GFM
