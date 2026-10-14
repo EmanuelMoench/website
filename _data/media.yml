@@ -13,17 +13,17 @@
   url: https://www.bloomberg.com/news/articles/2026-07-24/global-inflation-angst-is-back-with-100-oil-and-more-tariffs
   image: bloomberg-2607.jpg
 
-- outlet: Simply Put (FHN Financial podcast)
-  date: 2026-05
-  title: Emanuel Mönch on the Post-Pandemic Term Premium
-  url: https://open.spotify.com/episode/30rFKvonlh9WO7gYkidebl
-  image: fhn-2605.jpg
-
 - outlet: Berliner Morgenpost
   date: 2026-06
   title: Ein strenger Blick der EZB-Chefin genügt – und die Märkte reagieren
   url: https://www.morgenpost.de/wirtschaft/article412217648/ein-strenger-blick-der-ezb-chefin-genuegt-und-die-maerkte-reagieren.html
   image: morgenpost-2606.jpg
+
+- outlet: Simply Put (FHN Financial podcast)
+  date: 2026-05
+  title: Emanuel Mönch on the Post-Pandemic Term Premium
+  url: https://open.spotify.com/episode/30rFKvonlh9WO7gYkidebl
+  image: fhn-2605.jpg
 
 - outlet: Bloomberg
   date: 2026-05
