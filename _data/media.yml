@@ -7,6 +7,24 @@
 #   image   screenshot in assets/images/media/ (optional)
 # ---------------------------------------------------------------
 
+- outlet: Marketplace
+  date: 2026-10
+  title: Treasury interest rates are up because they're looking risky
+  url: https://www.marketplace.org/story/2026/10/23/treasury-rates-rise-as-percieved-risk-climbs
+  image: marketplace-2610.jpg
+
+- outlet: Bloomberg
+  date: 2026-10
+  title: French Bond Rout Puts Crisis at Heart of ECB Succession Endgame
+  url: https://www.bloomberg.com/news/articles/2026-10-25/french-bond-rout-puts-crisis-at-heart-of-ecb-succession-endgame
+  image: bloomberg-2610.jpg
+
+- outlet: Börsen-Zeitung
+  date: 2026-10
+  title: Pariser Erpressungspotenzial sprengt das Krisenregime der EZB
+  url: https://www.boersen-zeitung.de/konjunktur-politik/pariser-erpressungspotenzial-sprengt-das-krisenregime-der-ezb
+  image: boersenzeitung-2610.jpg
+
 - outlet: Bloomberg
   date: 2026-07
   title: Global Inflation Angst Is Back on $100 Oil and More Tariffs
