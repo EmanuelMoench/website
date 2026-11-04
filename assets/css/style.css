@@ -255,37 +255,37 @@ p { margin: 0 0 1em; }
 
 /* ---------- Publication lists ---------- */
 .pub-list { list-style: none; margin: 0; padding: 0; }
-.pub { display: grid; grid-template-columns: 36px minmax(0, 1fr); gap: 18px; padding: 26px 0; border-bottom: 1px solid var(--line); }
+.pub { display: grid; grid-template-columns: 38px minmax(0, 1fr); gap: 20px; padding: 28px 0; border-bottom: 1px solid var(--line); }
 .pub:first-child { padding-top: 0; }
 .pub-icon {
-  width: 32px; height: 32px; margin-top: 3px;
+  width: 34px; height: 34px; margin-top: 4px;
   background-color: var(--blue);
   -webkit-mask: var(--icon) center / contain no-repeat; mask: var(--icon) center / contain no-repeat;
 }
 .pub-icon--doc  { --icon: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24' fill='none' stroke='%23000' stroke-width='1.7' stroke-linejoin='round'%3E%3Cpath d='M14 2.5H6.5a2 2 0 0 0-2 2v15a2 2 0 0 0 2 2h11a2 2 0 0 0 2-2V8z'/%3E%3Cpath d='M14 2.5V8h5.5M8 12.5h8M8 16h8M8 9h3'/%3E%3C/svg%3E"); }
 .pub-icon--draft { --icon: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24' fill='none' stroke='%23000' stroke-width='1.7' stroke-linejoin='round' stroke-linecap='round'%3E%3Cpath d='M4 9V4h5M20 9V4h-5M4 15v5h5M20 15v5h-5'/%3E%3Cpath d='M8.5 10h7M8.5 14h5'/%3E%3C/svg%3E"); }
 .pub-icon--note { --icon: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24' fill='none' stroke='%23000' stroke-width='1.7' stroke-linejoin='round' stroke-linecap='round'%3E%3Cpath d='M5 3.5h14v17H5z'/%3E%3Cpath d='M8.5 8h7M8.5 12h7M8.5 16h4'/%3E%3C/svg%3E"); }
-.pub-cite { margin: 0 0 12px; font-size: 17.5px; line-height: 1.6; }
+.pub-cite { margin: 0 0 14px; font-size: 19px; line-height: 1.6; }
 .pub-title { font-weight: 600; color: var(--blue); }
 .pub-cite em { font-style: italic; }
 .pub-cite strong { font-weight: 600; }
 .pub-actions { display: flex; flex-wrap: wrap; gap: 8px; }
 .chip {
-  font-family: var(--font-body); font-size: 13.5px; font-weight: 500; letter-spacing: .03em; text-transform: uppercase;
+  font-family: var(--font-body); font-size: 14.5px; font-weight: 500; letter-spacing: .03em; text-transform: uppercase;
   border: 1.5px solid var(--blue); color: var(--blue); background: transparent;
-  padding: 5px 15px; border-radius: 30px; cursor: pointer; line-height: 1.5;
+  padding: 5px 16px; border-radius: 30px; cursor: pointer; line-height: 1.5;
   transition: background .2s, color .2s;
 }
 .chip:hover, .chip[aria-expanded="true"] { background: var(--blue); color: #fff; text-decoration: none; }
 .chip--link { background: var(--cyan); border-color: var(--cyan); color: #fff; }
 .chip--link:hover { background: var(--cyan-hover); border-color: var(--cyan-hover); }
 .pub-panel { margin-top: 14px; padding: 18px 22px; background: var(--pale); border-left: 4px solid var(--cyan); border-radius: 0 12px 12px 0; position: relative; }
-.pub-panel h3 { font-size: 20px; margin-bottom: .4em; }
-.pub-panel p { margin: 0; font-size: 16.5px; line-height: 1.7; }
-.pub-panel--bib pre { margin: 0; overflow-x: auto; font-size: 13.5px; line-height: 1.55; white-space: pre; }
-.copy-btn { position: absolute; top: 10px; right: 10px; font: 500 13px var(--font-body); background: #fff; border: 1px solid var(--line); border-radius: 20px; padding: 3px 12px; cursor: pointer; color: var(--blue); }
+.pub-panel h3 { font-size: 21px; margin-bottom: .4em; }
+.pub-panel p { margin: 0; font-size: 18px; line-height: 1.7; }
+.pub-panel--bib pre { margin: 0; overflow-x: auto; font-size: 14.5px; line-height: 1.55; white-space: pre; }
+.copy-btn { position: absolute; top: 10px; right: 10px; font: 500 13.5px var(--font-body); background: #fff; border: 1px solid var(--line); border-radius: 20px; padding: 3px 12px; cursor: pointer; color: var(--blue); }
 .copy-btn:hover { border-color: var(--blue); }
-@media (max-width: 560px) { .pub { grid-template-columns: 1fr; gap: 8px; } .pub-icon { width: 24px; height: 24px; } .pub-cite { font-size: 16.5px; } .pub-panel p { font-size: 15.5px; } }
+@media (max-width: 560px) { .pub { grid-template-columns: 1fr; gap: 8px; } .pub-icon { width: 24px; height: 24px; } .pub-cite { font-size: 17.5px; } .pub-panel p { font-size: 16.5px; } }
 
 /* ---------- Other (roles + logos) ---------- */
 .lead-in { font-size: 17px; margin-bottom: .4em; }
